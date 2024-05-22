@@ -1,0 +1,1503 @@
+#EXTM3U url-tvg="https://meralund.com//epg.xml.gz"
+#EXTINF:-1 tvg-id="0" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket_English.png" group-title="Sports - PinrangTV",Jio Cricket English HD
+https://extratvteam.site/JIO/autoq.php?c=1918
+#EXTINF:-1 tvg-id="1" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="Entertainment - PinrangTV",Colors HD
+https://extratvteam.site/JIO/autoq.php?c=144
+#EXTINF:-1 tvg-id="2" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="Entertainment - PinrangTV",SET HD
+https://extratvteam.site/JIO/autoq.php?c=291
+#EXTINF:-1 tvg-id="3" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png" group-title="Entertainment - PinrangTV",Zee TV HD
+https://extratvteam.site/JIO/autoq.php?c=167
+#EXTINF:-1 tvg-id="4" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png" group-title="Movies - PinrangTV",Sony Max HD
+https://extratvteam.site/JIO/autoq.php?c=476
+#EXTINF:-1 tvg-id="5" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png" group-title="Movies - PinrangTV",Zee Cinema HD
+https://extratvteam.site/JIO/autoq.php?c=165
+#EXTINF:-1 tvg-id="6" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Six_HD.png" group-title="Sports - PinrangTV",Sony Ten 5 HD
+https://extratvteam.site/JIO/autoq.php?c=155
+#EXTINF:-1 tvg-id="7" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Times_NOW.png" group-title="News - PinrangTV",Times NOW
+https://extratvteam.site/JIO/autoq.php?c=383
+#EXTINF:-1 tvg-id="8" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Times_Now_Navbharat.png" group-title="News - PinrangTV",Times Now Navbharat
+https://extratvteam.site/JIO/autoq.php?c=1906
+#EXTINF:-1 tvg-id="9" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png" group-title="Sports - PinrangTV",Sony Ten 1 HD
+https://extratvteam.site/JIO/autoq.php?c=162
+#EXTINF:-1 tvg-id="10" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_News_India.png" group-title="News - PinrangTV",ABP News India
+https://extratvteam.site/JIO/autoq.php?c=177
+#EXTINF:-1 tvg-id="11" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten2_HD.png" group-title="Sports - PinrangTV",Sony Ten 2 HD
+https://extratvteam.site/JIO/autoq.php?c=891
+#EXTINF:-1 tvg-id="12" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CNN_NEWS_18.png" group-title="News - PinrangTV",CNN NEWS 18
+https://extratvteam.site/JIO/autoq.php?c=492
+#EXTINF:-1 tvg-id="13" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_HD_Plus.png" group-title="Music - PinrangTV",MTV HD Plus
+https://extratvteam.site/JIO/autoq.php?c=1145
+#EXTINF:-1 tvg-id="14" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_HD.png" group-title="Music - PinrangTV",MTV Beats HD
+https://extratvteam.site/JIO/autoq.php?c=753
+#EXTINF:-1 tvg-id="15" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Republic_TV.png" group-title="News - PinrangTV",Republic TV
+https://extratvteam.site/JIO/autoq.php?c=858
+#EXTINF:-1 tvg-id="16" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Mastiii.png" group-title="Music - PinrangTV",Mastiii
+https://extratvteam.site/JIO/autoq.php?c=584
+#EXTINF:-1 tvg-id="17" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_Majha.png" group-title="News - PinrangTV",ABP Majha
+https://extratvteam.site/JIO/autoq.php?c=612
+#EXTINF:-1 tvg-id="18" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Hindi.png" group-title="Kids - PinrangTV",Nick Hindi
+https://extratvteam.site/JIO/autoq.php?c=545
+#EXTINF:-1 tvg-id="19" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/TV9_Karnataka.png" group-title="News - PinrangTV",TV9 Karnataka
+https://extratvteam.site/JIO/autoq.php?c=619
+#EXTINF:-1 tvg-id="20" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Hindi.png" group-title="Kids - PinrangTV",Pogo Hindi
+https://extratvteam.site/JIO/autoq.php?c=559
+#EXTINF:-1 tvg-id="21" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Polimer_News.png" group-title="News - PinrangTV",Polimer News
+https://extratvteam.site/JIO/autoq.php?c=636
+#EXTINF:-1 tvg-id="22" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/TV9_Telugu_News.png" group-title="News - PinrangTV",TV9 Telugu News
+https://extratvteam.site/JIO/autoq.php?c=618
+#EXTINF:-1 tvg-id="23" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Hindi.png" group-title="Kids - PinrangTV",Cartoon Network Hindi
+https://extratvteam.site/JIO/autoq.php?c=816
+#EXTINF:-1 tvg-id="24" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_HD_World.png" group-title="Infotainment - PinrangTV",Discovery HD World
+https://extratvteam.site/JIO/autoq.php?c=463
+#EXTINF:-1 tvg-id="25" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_Ananda.png" group-title="News - PinrangTV",ABP Ananda
+https://extratvteam.site/JIO/autoq.php?c=672
+#EXTINF:-1 tvg-id="26" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png" group-title="Infotainment - PinrangTV",Sony BBC Earth HD
+https://extratvteam.site/JIO/autoq.php?c=821
+#EXTINF:-1 tvg-id="27" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/History_HD.png" group-title="Infotainment - PinrangTV",History TV18 HD
+https://extratvteam.site/JIO/autoq.php?c=146
+#EXTINF:-1 tvg-id="28" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/TLC_HD_World.png" group-title="Lifestyle - PinrangTV",TLC HD
+https://extratvteam.site/JIO/autoq.php?c=479
+#EXTINF:-1 tvg-id="29" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Food_Food.png" group-title="Lifestyle - PinrangTV",Food Food
+https://extratvteam.site/JIO/autoq.php?c=561
+#EXTINF:-1 tvg-id="30" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_Good_Times.png" group-title="Lifestyle - PinrangTV",GOOD TiMES
+https://extratvteam.site/JIO/autoq.php?c=560
+#EXTINF:-1 tvg-id="31" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Business.png" group-title="Business - PinrangTV",Zee Business
+https://extratvteam.site/JIO/autoq.php?c=657
+#EXTINF:-1 tvg-id="32" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CNBC_Tv18_Prime_HD.png" group-title="Business - PinrangTV",CNBC Tv18 Prime HD
+https://extratvteam.site/JIO/autoq.php?c=143
+#EXTINF:-1 tvg-id="33" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_Profit.png" group-title="Business - PinrangTV",NDTV Profit
+https://extratvteam.site/JIO/autoq.php?c=259
+#EXTINF:-1 tvg-id="34" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CNBC_Awaaz.png" group-title="Business - PinrangTV",CNBC Awaaz
+https://extratvteam.site/JIO/autoq.php?c=190
+#EXTINF:-1 tvg-id="35" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Aastha.png" group-title="Devotional - PinrangTV",Aastha
+https://extratvteam.site/JIO/autoq.php?c=175
+#EXTINF:-1 tvg-id="36" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Aastha_Bhajan.png" group-title="Devotional - PinrangTV",Aastha Bhajan
+https://extratvteam.site/JIO/autoq.php?c=594
+#EXTINF:-1 tvg-id="37" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sanskar.png" group-title="Devotional - PinrangTV",Sanskar
+https://extratvteam.site/JIO/autoq.php?c=288
+#EXTINF:-1 tvg-id="38" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/India_Science.png" group-title="Educational - PinrangTV",India Science
+https://extratvteam.site/JIO/autoq.php?c=1433
+#EXTINF:-1 tvg-id="39" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB.png" group-title="Entertainment - PinrangTV",Sony SAB
+https://extratvteam.site/JIO/autoq.php?c=154
+#EXTINF:-1 tvg-id="40" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/And_TV_HD.png" group-title="Entertainment - PinrangTV",And TV HD
+https://extratvteam.site/JIO/autoq.php?c=472
+#EXTINF:-1 tvg-id="41" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Rishtey.png" group-title="Entertainment - PinrangTV",Rishtey
+https://extratvteam.site/JIO/autoq.php?c=279
+#EXTINF:-1 tvg-id="42" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Anmol.png" group-title="Entertainment - PinrangTV",Zee Anmol
+https://extratvteam.site/JIO/autoq.php?c=473
+#EXTINF:-1 tvg-id="43" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pal.png" group-title="Entertainment - PinrangTV",Sony Pal
+https://extratvteam.site/JIO/autoq.php?c=474
+#EXTINF:-1 tvg-id="44" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB_HD.png" group-title="Entertainment - PinrangTV",Sony SAB HD
+https://extratvteam.site/JIO/autoq.php?c=471
+#EXTINF:-1 tvg-id="45" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Marathi.png" group-title="Entertainment - PinrangTV",Zee Marathi
+https://extratvteam.site/JIO/autoq.php?c=445
+#EXTINF:-1 tvg-id="46" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Marathi_HD.png" group-title="Entertainment - PinrangTV",Colors Marathi HD
+https://extratvteam.site/JIO/autoq.php?c=755
+#EXTINF:-1 tvg-id="47" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Kannada_HD.png" group-title="Entertainment - PinrangTV",Colors Kannada HD
+https://extratvteam.site/JIO/autoq.php?c=757
+#EXTINF:-1 tvg-id="48" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Kannada.png" group-title="Entertainment - PinrangTV",Zee Kannada
+https://extratvteam.site/JIO/autoq.php?c=689
+#EXTINF:-1 tvg-id="49" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Comedy_Central_HD.png" group-title="Entertainment - PinrangTV",Comedy Central HD
+https://extratvteam.site/JIO/autoq.php?c=1157
+#EXTINF:-1 tvg-id="50" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Telugu.png" group-title="Entertainment - PinrangTV",Zee Telugu
+https://extratvteam.site/JIO/autoq.php?c=638
+#EXTINF:-1 tvg-id="51" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Tamil.png" group-title="Entertainment - PinrangTV",Zee Tamil
+https://extratvteam.site/JIO/autoq.php?c=628
+#EXTINF:-1 tvg-id="52" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Gujarati.png" group-title="Entertainment - PinrangTV",Colors Gujarati
+https://extratvteam.site/JIO/autoq.php?c=196
+#EXTINF:-1 tvg-id="53" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Bangla.png" group-title="Entertainment - PinrangTV",Zee Bangla
+https://extratvteam.site/JIO/autoq.php?c=625
+#EXTINF:-1 tvg-id="54" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bengali_HD.png" group-title="Entertainment - PinrangTV",Colors Bengali HD
+https://extratvteam.site/JIO/autoq.php?c=756
+#EXTINF:-1 tvg-id="55" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Epic_HD.png" group-title="Entertainment - PinrangTV",Epic
+https://extratvteam.site/JIO/autoq.php?c=481
+#EXTINF:-1 tvg-id="56" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Infinity_HD.png" group-title="Entertainment - PinrangTV",Colors Infinity HD
+https://extratvteam.site/JIO/autoq.php?c=1158
+#EXTINF:-1 tvg-id="57" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Yuva.png" group-title="Entertainment - PinrangTV",Zee Yuva
+https://extratvteam.site/JIO/autoq.php?c=414
+#EXTINF:-1 tvg-id="58" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/PTC_Punjabi.png" group-title="Entertainment - PinrangTV",PTC Punjabi
+https://extratvteam.site/JIO/autoq.php?c=1171
+#EXTINF:-1 tvg-id="59" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ID.png" group-title="Entertainment - PinrangTV",Investigation Discovery
+https://extratvteam.site/JIO/autoq.php?c=527
+#EXTINF:-1 tvg-id="60" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_India.png" group-title="Entertainment - PinrangTV",DD India
+https://extratvteam.site/JIO/autoq.php?c=528
+#EXTINF:-1 tvg-id="61" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_National.png" group-title="Entertainment - PinrangTV",DD National
+https://extratvteam.site/JIO/autoq.php?c=202
+#EXTINF:-1 tvg-id="62" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Dabangg.png" group-title="Entertainment - PinrangTV",Dabangg
+https://extratvteam.site/JIO/autoq.php?c=532
+#EXTINF:-1 tvg-id="63" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Tamil_HD.png" group-title="Entertainment - PinrangTV",Colors Tamil HD
+https://extratvteam.site/JIO/autoq.php?c=429
+#EXTINF:-1 tvg-id="64" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_TV_HD.png" group-title="Entertainment - PinrangTV",Sun TV HD
+https://extratvteam.site/JIO/autoq.php?c=896
+#EXTINF:-1 tvg-id="65" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Madhya_Pradesh.png" group-title="Entertainment - PinrangTV",DD Madhya Pradesh
+https://extratvteam.site/JIO/autoq.php?c=536
+#EXTINF:-1 tvg-id="66" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Rajasthan_Jaipur.png" group-title="Entertainment - PinrangTV",DD Rajasthan (Jaipur)
+https://extratvteam.site/JIO/autoq.php?c=538
+#EXTINF:-1 tvg-id="67" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex.png" group-title="Movies - PinrangTV",Colors Cineplex
+https://extratvteam.site/JIO/autoq.php?c=482
+#EXTINF:-1 tvg-id="68" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png" group-title="Movies - PinrangTV",Sony Pix HD
+https://extratvteam.site/JIO/autoq.php?c=762
+#EXTINF:-1 tvg-id="69" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_SD.png" group-title="Movies - PinrangTV",Sony Max SD
+https://extratvteam.site/JIO/autoq.php?c=289
+#EXTINF:-1 tvg-id="70" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_MAX2.png" group-title="Movies - PinrangTV",Sony MAX2
+https://extratvteam.site/JIO/autoq.php?c=483
+#EXTINF:-1 tvg-id="71" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/And_Pictures_HD.png" group-title="Movies - PinrangTV",And Pictures HD
+https://extratvteam.site/JIO/autoq.php?c=185
+#EXTINF:-1 tvg-id="72" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema.png" group-title="Movies - PinrangTV",Zee Cinema
+https://extratvteam.site/JIO/autoq.php?c=484
+#EXTINF:-1 tvg-id="73" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Movies.png" group-title="Movies - PinrangTV",B4U Movies
+https://extratvteam.site/JIO/autoq.php?c=182
+#EXTINF:-1 tvg-id="74" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cinema.png" group-title="Movies - PinrangTV",Jio Cinema
+https://extratvteam.site/JIO/autoq.php?c=1074
+#EXTINF:-1 tvg-id="75" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Classic.png" group-title="Movies - PinrangTV",Zee Bollywood
+https://extratvteam.site/JIO/autoq.php?c=487
+#EXTINF:-1 tvg-id="76" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Bhojpuri_Cinema.png" group-title="Movies - PinrangTV",Bhojpuri Cinema
+https://extratvteam.site/JIO/autoq.php?c=486
+#EXTINF:-1 tvg-id="77" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/KTV_HD.png" group-title="Movies - PinrangTV",KTV HD
+https://extratvteam.site/JIO/autoq.php?c=894
+#EXTINF:-1 tvg-id="78" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Enterr_10.png" group-title="Entertainment - PinrangTV",Enterr 10
+https://extratvteam.site/JIO/autoq.php?c=485
+#EXTINF:-1 tvg-id="79" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Action.png" group-title="Movies - PinrangTV",Zee Action
+https://extratvteam.site/JIO/autoq.php?c=488
+#EXTINF:-1 tvg-id="80" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Udaya_Movies.png" group-title="Movies - PinrangTV",Udaya Movies
+https://extratvteam.site/JIO/autoq.php?c=678
+#EXTINF:-1 tvg-id="81" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinemalu.png" group-title="Movies - PinrangTV",Zee Cinemalu
+https://extratvteam.site/JIO/autoq.php?c=413
+#EXTINF:-1 tvg-id="82" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Gemini_Movies_HD.png" group-title="Movies - PinrangTV",Gemini Movies HD
+https://extratvteam.site/JIO/autoq.php?c=899
+#EXTINF:-1 tvg-id="83" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Anmol_Cinema.png" group-title="Movies - PinrangTV",Zee Anmol Cinema
+https://extratvteam.site/JIO/autoq.php?c=415
+#EXTINF:-1 tvg-id="84" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/IBN_7.png" group-title="News - PinrangTV",News 18 India
+https://extratvteam.site/JIO/autoq.php?c=231
+#EXTINF:-1 tvg-id="85" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/India_TV.png" group-title="News - PinrangTV",India TV
+https://extratvteam.site/JIO/autoq.php?c=235
+#EXTINF:-1 tvg-id="86" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_India.png" group-title="News - PinrangTV",NDTV India
+https://extratvteam.site/JIO/autoq.php?c=258
+#EXTINF:-1 tvg-id="87" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_News.png" group-title="News - PinrangTV",Zee News
+https://extratvteam.site/JIO/autoq.php?c=504
+#EXTINF:-1 tvg-id="88" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Times_Now_HD.png" group-title="News - PinrangTV",Times Now World
+https://extratvteam.site/JIO/autoq.php?c=876
+#EXTINF:-1 tvg-id="89" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_24x7.png" group-title="News - PinrangTV",NDTV 24x7
+https://extratvteam.site/JIO/autoq.php?c=255
+#EXTINF:-1 tvg-id="90" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Telugu.png" group-title="Entertainment - PinrangTV",ETV Telugu
+https://extratvteam.site/JIO/autoq.php?c=629
+#EXTINF:-1 tvg-id="91" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Public_TV.png" group-title="News - PinrangTV",Public TV
+https://extratvteam.site/JIO/autoq.php?c=778
+#EXTINF:-1 tvg-id="92" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/24_Ghanta_TV.png" group-title="News - PinrangTV",24 Ghanta TV
+https://extratvteam.site/JIO/autoq.php?c=464
+#EXTINF:-1 tvg-id="93" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sakshi_tv.png" group-title="News - PinrangTV",Sakshi tv
+https://extratvteam.site/JIO/autoq.php?c=632
+#EXTINF:-1 tvg-id="94" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Suvarna_News.png" group-title="News - PinrangTV",Suvarna News
+https://extratvteam.site/JIO/autoq.php?c=626
+#EXTINF:-1 tvg-id="95" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/NTV.png" group-title="News - PinrangTV",NTV
+https://extratvteam.site/JIO/autoq.php?c=646
+#EXTINF:-1 tvg-id="96" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Thanthi_TV.png" group-title="News - PinrangTV",Thanthi TV
+https://extratvteam.site/JIO/autoq.php?c=830
+#EXTINF:-1 tvg-id="97" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News_24.png" group-title="News - PinrangTV",News 24
+https://extratvteam.site/JIO/autoq.php?c=501
+#EXTINF:-1 tvg-id="98" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/TV9_Maharashtra.png" group-title="News - PinrangTV",TV9 Maharashtra
+https://extratvteam.site/JIO/autoq.php?c=617
+#EXTINF:-1 tvg-id="99" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_24_Taas.png" group-title="News - PinrangTV",Zee 24 Taas
+https://extratvteam.site/JIO/autoq.php?c=442
+#EXTINF:-1 tvg-id="100" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten3_HD.png" group-title="Sports - PinrangTV",Sony Ten 3 HD
+https://extratvteam.site/JIO/autoq.php?c=892
+#EXTINF:-1 tvg-id="101" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Sports.png" group-title="Sports - PinrangTV",Jio Sports HD
+https://extratvteam.site/JIO/autoq.php?c=889
+#EXTINF:-1 tvg-id="102" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Dsports_HD.png" group-title="Sports - PinrangTV",Eurosport HD
+https://extratvteam.site/JIO/autoq.php?c=875
+#EXTINF:-1 tvg-id="103" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football.png" group-title="Sports - PinrangTV",Jio Football HD
+https://extratvteam.site/JIO/autoq.php?c=1156
+#EXTINF:-1 tvg-id="104" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket_1_HD.png" group-title="Sports - PinrangTV",Jio Cricket 1 HD
+https://extratvteam.site/JIO/autoq.php?c=1160
+#EXTINF:-1 tvg-id="105" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_1.png" group-title="Sports - PinrangTV",Jio Football 1 HD
+https://extratvteam.site/JIO/autoq.php?c=1165
+#EXTINF:-1 tvg-id="106" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_2.png" group-title="Sports - PinrangTV",Jio Football 2 HD
+https://extratvteam.site/JIO/autoq.php?c=1167
+#EXTINF:-1 tvg-id="107" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_3.png" group-title="Sports - PinrangTV",Jio Football 3 HD
+https://extratvteam.site/JIO/autoq.php?c=1168
+#EXTINF:-1 tvg-id="108" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_4.png" group-title="Sports - PinrangTV",Jio Football 4 HD
+https://extratvteam.site/JIO/autoq.php?c=1169
+#EXTINF:-1 tvg-id="109" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_1.png" group-title="Sports - PinrangTV",Sony Ten 1
+https://extratvteam.site/JIO/autoq.php?c=514
+#EXTINF:-1 tvg-id="110" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_2.png" group-title="Sports - PinrangTV",Ten 2
+https://extratvteam.site/JIO/autoq.php?c=523
+#EXTINF:-1 tvg-id="111" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_3.png" group-title="Sports - PinrangTV",Sony Ten 3
+https://extratvteam.site/JIO/autoq.php?c=524
+#EXTINF:-1 tvg-id="112" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Six_SD.png" group-title="Sports - PinrangTV",Sony Ten 5
+https://extratvteam.site/JIO/autoq.php?c=525
+#EXTINF:-1 tvg-id="113" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_Music_HD.png" group-title="Music - PinrangTV",Sun Music HD
+https://extratvteam.site/JIO/autoq.php?c=895
+#EXTINF:-1 tvg-id="114" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zing.png" group-title="Music - PinrangTV",Zing
+https://extratvteam.site/JIO/autoq.php?c=585
+#EXTINF:-1 tvg-id="115" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/9XM.png" group-title="Music - PinrangTV",9XM
+https://extratvteam.site/JIO/autoq.php?c=587
+#EXTINF:-1 tvg-id="116" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/E_24.png" group-title="Music - PinrangTV",E 24
+https://extratvteam.site/JIO/autoq.php?c=591
+#EXTINF:-1 tvg-id="117" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Music.png" group-title="Music - PinrangTV",B4U Music
+https://extratvteam.site/JIO/autoq.php?c=183
+#EXTINF:-1 tvg-id="118" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zoom.png" group-title="Music - PinrangTV",ZOOM
+https://extratvteam.site/JIO/autoq.php?c=592
+#EXTINF:-1 tvg-id="119" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Gemini_Music_HD.png" group-title="Music - PinrangTV",Gemini Music HD
+https://extratvteam.site/JIO/autoq.php?c=898
+#EXTINF:-1 tvg-id="120" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV.png" group-title="Music - PinrangTV",MTV
+https://extratvteam.site/JIO/autoq.php?c=248
+#EXTINF:-1 tvg-id="121" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Udaya_Music.png" group-title="Music - PinrangTV",Udaya Music
+https://extratvteam.site/JIO/autoq.php?c=744
+#EXTINF:-1 tvg-id="122" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/9X_Jalwa.png" group-title="Music - PinrangTV",9X Jalwa
+https://extratvteam.site/JIO/autoq.php?c=440
+#EXTINF:-1 tvg-id="123" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Public_Music.png" group-title="Music - PinrangTV",Public Music
+https://extratvteam.site/JIO/autoq.php?c=773
+#EXTINF:-1 tvg-id="124" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jaya_Max.png" group-title="Music - PinrangTV",Jaya Max
+https://extratvteam.site/JIO/autoq.php?c=420
+#EXTINF:-1 tvg-id="125" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sangeet_Bhojpuri.png" group-title="Music - PinrangTV",Sangeet Bhojpuri
+https://extratvteam.site/JIO/autoq.php?c=741
+#EXTINF:-1 tvg-id="126" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sangeet_Bangla.png" group-title="Music - PinrangTV",Sangeet Bangla
+https://extratvteam.site/JIO/autoq.php?c=740
+#EXTINF:-1 tvg-id="127" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/sonic_Hindi.png" group-title="Kids - PinrangTV",Sonic Hindi
+https://extratvteam.site/JIO/autoq.php?c=815
+#EXTINF:-1 tvg-id="128" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Hindi.png" group-title="Kids - PinrangTV",Sony Yay Hindi
+https://extratvteam.site/JIO/autoq.php?c=872
+#EXTINF:-1 tvg-id="129" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nickelodeon.png" group-title="Kids - PinrangTV",Nickelodeon
+https://extratvteam.site/JIO/autoq.php?c=547
+#EXTINF:-1 tvg-id="130" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Tamil.png" group-title="Kids - PinrangTV",Nick Tamil
+https://extratvteam.site/JIO/autoq.php?c=546
+#EXTINF:-1 tvg-id="131" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Tamil.png" group-title="Kids - PinrangTV",Pogo Tamil
+https://extratvteam.site/JIO/autoq.php?c=542
+#EXTINF:-1 tvg-id="132" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CN_HD_English.png" group-title="Kids - PinrangTV",CN HD+ English
+https://extratvteam.site/JIO/autoq.php?c=1079
+#EXTINF:-1 tvg-id="133" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Tamil.png" group-title="Kids - PinrangTV",Cartoon Network Tamil
+https://extratvteam.site/JIO/autoq.php?c=817
+#EXTINF:-1 tvg-id="134" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Telugu.png" group-title="Kids - PinrangTV",Nick Telugu
+https://extratvteam.site/JIO/autoq.php?c=543
+#EXTINF:-1 tvg-id="135" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Kids_2.png" group-title="Kids - PinrangTV",Discovery Kids 2
+https://extratvteam.site/JIO/autoq.php?c=554
+#EXTINF:-1 tvg-id="136" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Junior.png" group-title="Kids - PinrangTV",Nick Junior
+https://extratvteam.site/JIO/autoq.php?c=544
+#EXTINF:-1 tvg-id="137" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_HD.png" group-title="Infotainment - PinrangTV",Animal Planet HD World
+https://extratvteam.site/JIO/autoq.php?c=286
+#EXTINF:-1 tvg-id="138" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP_HD.png" group-title="Lifestyle - PinrangTV",Travelxp HD
+https://extratvteam.site/JIO/autoq.php?c=164
+#EXTINF:-1 tvg-id="139" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_Hindi.png" group-title="Infotainment - PinrangTV",Animal Planet Hindi
+https://extratvteam.site/JIO/autoq.php?c=566
+#EXTINF:-1 tvg-id="140" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Hindi.png" group-title="Infotainment - PinrangTV",Discovery Channel Hindi
+https://extratvteam.site/JIO/autoq.php?c=575
+#EXTINF:-1 tvg-id="141" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/History_18_Hindi.png" group-title="Infotainment - PinrangTV",History TV18 HD Hindi
+https://extratvteam.site/JIO/autoq.php?c=578
+#EXTINF:-1 tvg-id="142" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Science.png" group-title="Infotainment - PinrangTV",Discovery Science
+https://extratvteam.site/JIO/autoq.php?c=568
+#EXTINF:-1 tvg-id="143" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Events.png" group-title="Infotainment - PinrangTV",Jio Events HD
+https://extratvteam.site/JIO/autoq.php?c=871
+#EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Telugu.png" group-title="Infotainment - PinrangTV",Discovery Channel Telugu
+https://extratvteam.site/JIO/autoq.php?c=576
+#EXTINF:-1 tvg-id="145" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Tamil.png" group-title="Infotainment - PinrangTV",D Tamil
+https://extratvteam.site/JIO/autoq.php?c=569
+#EXTINF:-1 tvg-id="146" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/History_18_Tamil.png" group-title="Infotainment - PinrangTV",History TV18 HD Tamil
+https://extratvteam.site/JIO/autoq.php?c=579
+#EXTINF:-1 tvg-id="147" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/History_18_Telugu.png" group-title="Infotainment - PinrangTV",History TV18 HD Telugu
+https://extratvteam.site/JIO/autoq.php?c=577
+#EXTINF:-1 tvg-id="148" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_English.png" group-title="Infotainment - PinrangTV",Animal Planet English
+https://extratvteam.site/JIO/autoq.php?c=567
+#EXTINF:-1 tvg-id="149" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Bengali.png" group-title="Infotainment - PinrangTV",Discovery Channel Bengali
+https://extratvteam.site/JIO/autoq.php?c=573
+#EXTINF:-1 tvg-id="150" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP_Tamil.png" group-title="Lifestyle - PinrangTV",Travelxp Tamil
+https://extratvteam.site/JIO/autoq.php?c=814
+#EXTINF:-1 tvg-id="151" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD_Telugu.png" group-title="Infotainment - PinrangTV",Sony BBC Earth HD Telugu
+https://extratvteam.site/JIO/autoq.php?c=854
+#EXTINF:-1 tvg-id="152" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery.png" group-title="Infotainment - PinrangTV",Discovery
+https://extratvteam.site/JIO/autoq.php?c=242
+#EXTINF:-1 tvg-id="153" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD_Tamil.png" group-title="Infotainment - PinrangTV",Sony BBC Earth HD Tamil
+https://extratvteam.site/JIO/autoq.php?c=853
+#EXTINF:-1 tvg-id="154" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP.png" group-title="Lifestyle - PinrangTV",Travelxp HD Hindi
+https://extratvteam.site/JIO/autoq.php?c=562
+#EXTINF:-1 tvg-id="155" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/TLC_English.png" group-title="Lifestyle - PinrangTV",TLC English
+https://extratvteam.site/JIO/autoq.php?c=574
+#EXTINF:-1 tvg-id="156" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Abhiruchi.png" group-title="Lifestyle - PinrangTV",ETV Abhiruchi
+https://extratvteam.site/JIO/autoq.php?c=565
+#EXTINF:-1 tvg-id="157" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/TLC_Hindi.png" group-title="Lifestyle - PinrangTV",TLC Hindi
+https://extratvteam.site/JIO/autoq.php?c=571
+#EXTINF:-1 tvg-id="158" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sadhguru_Television.png" group-title="Devotional - PinrangTV",Sadhguru Television HD
+https://extratvteam.site/JIO/autoq.php?c=1201
+#EXTINF:-1 tvg-id="159" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Kaumudy_TV.png" group-title="Lifestyle - PinrangTV",Kaumudy TV
+https://extratvteam.site/JIO/autoq.php?c=563
+#EXTINF:-1 tvg-id="160" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CNBC_Tv_18.png" group-title="Business - PinrangTV",CNBC Tv 18
+https://extratvteam.site/JIO/autoq.php?c=489
+#EXTINF:-1 tvg-id="161" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ET_Now.png" group-title="Business - PinrangTV",ET Now
+https://extratvteam.site/JIO/autoq.php?c=212
+#EXTINF:-1 tvg-id="162" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ET_Now_Swadesh.png" group-title="Business - PinrangTV",ET Now Swadesh
+https://extratvteam.site/JIO/autoq.php?c=1907
+#EXTINF:-1 tvg-id="163" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Bhakti_TV.png" group-title="Devotional - PinrangTV",Bhakti TV
+https://extratvteam.site/JIO/autoq.php?c=776
+#EXTINF:-1 tvg-id="164" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sri_Sankara.png" group-title="Devotional - PinrangTV",Sri Sankara
+https://extratvteam.site/JIO/autoq.php?c=829
+#EXTINF:-1 tvg-id="165" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Peace_of_Mind.png" group-title="Devotional - PinrangTV",Peace of Mind
+https://extratvteam.site/JIO/autoq.php?c=794
+#EXTINF:-1 tvg-id="166" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/mh1_Shraddha.png" group-title="Devotional - PinrangTV",mh1 Shraddha
+https://extratvteam.site/JIO/autoq.php?c=609
+#EXTINF:-1 tvg-id="167" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sri_Venkateshwar_Bhakti.png" group-title="Devotional - PinrangTV",Sri Venkateshwar Bhakti
+https://extratvteam.site/JIO/autoq.php?c=598
+#EXTINF:-1 tvg-id="168" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Divya_TV.png" group-title="Devotional - PinrangTV",Divya TV
+https://extratvteam.site/JIO/autoq.php?c=801
+#EXTINF:-1 tvg-id="169" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Paras_tv.png" group-title="Devotional - PinrangTV",Paras tv
+https://extratvteam.site/JIO/autoq.php?c=602
+#EXTINF:-1 tvg-id="170" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sadhna.png" group-title="Devotional - PinrangTV",Sadhna
+https://extratvteam.site/JIO/autoq.php?c=593
+#EXTINF:-1 tvg-id="171" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Satsang_TV.png" group-title="Devotional - PinrangTV",Satsang TV
+https://extratvteam.site/JIO/autoq.php?c=597
+#EXTINF:-1 tvg-id="172" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CVR_OM_Spiritual.png" group-title="Devotional - PinrangTV",CVR OM Spiritual
+https://extratvteam.site/JIO/autoq.php?c=772
+#EXTINF:-1 tvg-id="173" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Aradhana_TV.png" group-title="Devotional - PinrangTV",Aradhana TV
+https://extratvteam.site/JIO/autoq.php?c=777
+#EXTINF:-1 tvg-id="174" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jinvani_TV.png" group-title="Devotional - PinrangTV",Jinvani TV
+https://extratvteam.site/JIO/autoq.php?c=596
+#EXTINF:-1 tvg-id="175" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Shubh_TV.png" group-title="Devotional - PinrangTV",Shubh TV
+https://extratvteam.site/JIO/autoq.php?c=828
+#EXTINF:-1 tvg-id="176" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Subhavartha_TV.png" group-title="Devotional - PinrangTV",Subhavartha TV
+https://extratvteam.site/JIO/autoq.php?c=607
+#EXTINF:-1 tvg-id="177" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Divya_Vani.png" group-title="Devotional - PinrangTV",Divya Vani
+https://extratvteam.site/JIO/autoq.php?c=934
+#EXTINF:-1 tvg-id="178" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Arihant_TV.png" group-title="Devotional - PinrangTV",Arihant TV
+https://extratvteam.site/JIO/autoq.php?c=466
+#EXTINF:-1 tvg-id="179" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket_4_HD.png" group-title="Sports - PinrangTV",Jio Cricket 4 HD
+https://extratvteam.site/JIO/autoq.php?c=1272
+#EXTINF:-1 tvg-id="180" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_Pariwar.png" group-title="Entertainment - PinrangTV",Raj Pariwar
+https://extratvteam.site/JIO/autoq.php?c=533
+#EXTINF:-1 tvg-id="181" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Bihar.png" group-title="Entertainment - PinrangTV",DD Bihar
+https://extratvteam.site/JIO/autoq.php?c=539
+#EXTINF:-1 tvg-id="182" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jaya_TV_HD.png" group-title="Entertainment - PinrangTV",Jaya TV HD
+https://extratvteam.site/JIO/autoq.php?c=419
+#EXTINF:-1 tvg-id="183" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Mazavali_Manorama_HD.png" group-title="Entertainment - PinrangTV",Mazavali Manorama HD
+https://extratvteam.site/JIO/autoq.php?c=844
+#EXTINF:-1 tvg-id="184" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MK_TV.png" group-title="Entertainment - PinrangTV",MK TV
+https://extratvteam.site/JIO/autoq.php?c=847
+#EXTINF:-1 tvg-id="185" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Super.png" group-title="Entertainment - PinrangTV",Colors Super
+https://extratvteam.site/JIO/autoq.php?c=785
+#EXTINF:-1 tvg-id="186" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Vendhar_TV.png" group-title="Entertainment - PinrangTV",Vendhar TV
+https://extratvteam.site/JIO/autoq.php?c=857
+#EXTINF:-1 tvg-id="187" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Gemini_TV_HD.png" group-title="Entertainment - PinrangTV",Gemini TV HD
+https://extratvteam.site/JIO/autoq.php?c=897
+#EXTINF:-1 tvg-id="188" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Surya_HD.png" group-title="Entertainment - PinrangTV",Surya HD
+https://extratvteam.site/JIO/autoq.php?c=900
+#EXTINF:-1 tvg-id="189" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Udaya_HD.png" group-title="Entertainment - PinrangTV",Udaya HD
+https://extratvteam.site/JIO/autoq.php?c=901
+#EXTINF:-1 tvg-id="190" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Arre.png" group-title="Entertainment - PinrangTV",Arre HD
+https://extratvteam.site/JIO/autoq.php?c=963
+#EXTINF:-1 tvg-id="191" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sarthak_TV.png" group-title="Entertainment - PinrangTV",Zee Sarthak
+https://extratvteam.site/JIO/autoq.php?c=722
+#EXTINF:-1 tvg-id="192" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Flower_TV.png" group-title="Entertainment - PinrangTV",Flower TV
+https://extratvteam.site/JIO/autoq.php?c=634
+#EXTINF:-1 tvg-id="193" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Mazhavil_Manorama.png" group-title="Entertainment - PinrangTV",Mazhavil Manorama
+https://extratvteam.site/JIO/autoq.php?c=648
+#EXTINF:-1 tvg-id="194" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Puthu_Yugam.png" group-title="Entertainment - PinrangTV",Puthu Yugam
+https://extratvteam.site/JIO/autoq.php?c=824
+#EXTINF:-1 tvg-id="195" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Saam_Tv.png" group-title="Entertainment - PinrangTV",Saam Tv
+https://extratvteam.site/JIO/autoq.php?c=691
+#EXTINF:-1 tvg-id="196" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Oriya.png" group-title="Entertainment - PinrangTV",Colors Oriya
+https://extratvteam.site/JIO/autoq.php?c=198
+#EXTINF:-1 tvg-id="197" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jonack.png" group-title="Entertainment - PinrangTV",Jonack
+https://extratvteam.site/JIO/autoq.php?c=765
+#EXTINF:-1 tvg-id="198" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Rang.png" group-title="Entertainment - PinrangTV",Rang
+https://extratvteam.site/JIO/autoq.php?c=623
+#EXTINF:-1 tvg-id="199" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Rengoni.png" group-title="Entertainment - PinrangTV",Rengoni
+https://extratvteam.site/JIO/autoq.php?c=635
+#EXTINF:-1 tvg-id="200" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Plus.png" group-title="Entertainment - PinrangTV",ETV Plus
+https://extratvteam.site/JIO/autoq.php?c=692
+#EXTINF:-1 tvg-id="201" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Marathi_SD.png" group-title="Entertainment - PinrangTV",Sony Marathi SD
+https://extratvteam.site/JIO/autoq.php?c=1146
+#EXTINF:-1 tvg-id="202" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Sahayadri.png" group-title="Entertainment - PinrangTV",DD Sahayadri
+https://extratvteam.site/JIO/autoq.php?c=695
+#EXTINF:-1 tvg-id="203" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_aath.png" group-title="Entertainment - PinrangTV",Sony aath
+https://extratvteam.site/JIO/autoq.php?c=697
+#EXTINF:-1 tvg-id="204" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Aakaash_bangla.png" group-title="Entertainment - PinrangTV",Aakash Aath
+https://extratvteam.site/JIO/autoq.php?c=698
+#EXTINF:-1 tvg-id="205" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Dangal.png" group-title="Entertainment - PinrangTV",Dangal
+https://extratvteam.site/JIO/autoq.php?c=701
+#EXTINF:-1 tvg-id="206" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Oriya.png" group-title="Entertainment - PinrangTV",DD Oriya
+https://extratvteam.site/JIO/autoq.php?c=702
+#EXTINF:-1 tvg-id="207" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Polimer_TV.png" group-title="Entertainment - PinrangTV",Polimer TV
+https://extratvteam.site/JIO/autoq.php?c=705
+#EXTINF:-1 tvg-id="208" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Gemini_Comedy.png" group-title="Entertainment - PinrangTV",Gemini Comedy
+https://extratvteam.site/JIO/autoq.php?c=729
+#EXTINF:-1 tvg-id="209" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_TV.png" group-title="Entertainment - PinrangTV",Raj TV
+https://extratvteam.site/JIO/autoq.php?c=707
+#EXTINF:-1 tvg-id="210" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Makkal_TV.png" group-title="Entertainment - PinrangTV",Makkal TV
+https://extratvteam.site/JIO/autoq.php?c=708
+#EXTINF:-1 tvg-id="211" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Adithya_TV.png" group-title="Entertainment - PinrangTV",Adithya TV
+https://extratvteam.site/JIO/autoq.php?c=709
+#EXTINF:-1 tvg-id="212" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Kairali_TV.png" group-title="Entertainment - PinrangTV",Kairali TV
+https://extratvteam.site/JIO/autoq.php?c=710
+#EXTINF:-1 tvg-id="213" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Captain_tv.png" group-title="Entertainment - PinrangTV",Captain tv
+https://extratvteam.site/JIO/autoq.php?c=711
+#EXTINF:-1 tvg-id="214" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Saptagiri.png" group-title="Entertainment - PinrangTV",DD Saptagiri
+https://extratvteam.site/JIO/autoq.php?c=706
+#EXTINF:-1 tvg-id="215" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD9_chandana_kannada.png" group-title="Entertainment - PinrangTV",DD9 chandana (kannada)
+https://extratvteam.site/JIO/autoq.php?c=713
+#EXTINF:-1 tvg-id="216" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Girnar.png" group-title="Entertainment - PinrangTV",DD Girnar
+https://extratvteam.site/JIO/autoq.php?c=714
+#EXTINF:-1 tvg-id="217" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Punjabi.png" group-title="Entertainment - PinrangTV",DD Punjabi
+https://extratvteam.site/JIO/autoq.php?c=715
+#EXTINF:-1 tvg-id="218" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nepal_one.png" group-title="Entertainment - PinrangTV",Nepal one
+https://extratvteam.site/JIO/autoq.php?c=719
+#EXTINF:-1 tvg-id="219" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Amrita_TV.png" group-title="Entertainment - PinrangTV",Amrita TV
+https://extratvteam.site/JIO/autoq.php?c=723
+#EXTINF:-1 tvg-id="220" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Kairali_People_TV.png" group-title="News - PinrangTV",Kairali News
+https://extratvteam.site/JIO/autoq.php?c=725
+#EXTINF:-1 tvg-id="221" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD5_Podhigai.png" group-title="Entertainment - PinrangTV",DD5 Podhigai
+https://extratvteam.site/JIO/autoq.php?c=726
+#EXTINF:-1 tvg-id="222" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Vasanth_TV.png" group-title="Entertainment - PinrangTV",Vasanth TV
+https://extratvteam.site/JIO/autoq.php?c=727
+#EXTINF:-1 tvg-id="223" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Salaam.png" group-title="Entertainment - PinrangTV",Zee Salaam
+https://extratvteam.site/JIO/autoq.php?c=728
+#EXTINF:-1 tvg-id="224" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Kasturi.png" group-title="Entertainment - PinrangTV",Kasturi
+https://extratvteam.site/JIO/autoq.php?c=730
+#EXTINF:-1 tvg-id="225" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Kairali_WE_TV.png" group-title="Entertainment - PinrangTV",Kairali WE TV
+https://extratvteam.site/JIO/autoq.php?c=731
+#EXTINF:-1 tvg-id="226" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Udaya_Comedy.png" group-title="Entertainment - PinrangTV",Udaya Comedy
+https://extratvteam.site/JIO/autoq.php?c=733
+#EXTINF:-1 tvg-id="227" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Vissa_TV.png" group-title="Entertainment - PinrangTV",Vissa TV
+https://extratvteam.site/JIO/autoq.php?c=734
+#EXTINF:-1 tvg-id="228" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Maiboli.png" group-title="Entertainment - PinrangTV",Maiboli
+https://extratvteam.site/JIO/autoq.php?c=736
+#EXTINF:-1 tvg-id="229" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/The_Q_Kahaniyan.png" group-title="Kids - PinrangTV",The Q Kahaniyan
+https://extratvteam.site/JIO/autoq.php?c=1920
+#EXTINF:-1 tvg-id="230" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Dillagi_TV.png" group-title="Entertainment - PinrangTV",Dillagi TV
+https://extratvteam.site/JIO/autoq.php?c=534
+#EXTINF:-1 tvg-id="231" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Dhamaal_TV.png" group-title="Entertainment - PinrangTV",Dhamaal TV
+https://extratvteam.site/JIO/autoq.php?c=535
+#EXTINF:-1 tvg-id="232" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Talkies.png" group-title="Movies - PinrangTV",Zee Talkies
+https://extratvteam.site/JIO/autoq.php?c=153
+#EXTINF:-1 tvg-id="233" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/J_Movies.png" group-title="Movies - PinrangTV",J Movies
+https://extratvteam.site/JIO/autoq.php?c=417
+#EXTINF:-1 tvg-id="234" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Bangla_Cinema.png" group-title="Movies - PinrangTV",Zee Bangla Cinema
+https://extratvteam.site/JIO/autoq.php?c=685
+#EXTINF:-1 tvg-id="235" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Cinema.png" group-title="Movies - PinrangTV",ETV Cinema
+https://extratvteam.site/JIO/autoq.php?c=252
+#EXTINF:-1 tvg-id="236" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Gemini_Life.png" group-title="Movies - PinrangTV",Gemini Life
+https://extratvteam.site/JIO/autoq.php?c=684
+#EXTINF:-1 tvg-id="237" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_Life.png" group-title="Movies - PinrangTV",Sun Life
+https://extratvteam.site/JIO/autoq.php?c=682
+#EXTINF:-1 tvg-id="238" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Fakt_Marathi.png" group-title="Movies - PinrangTV",Fakt Marathi
+https://extratvteam.site/JIO/autoq.php?c=738
+#EXTINF:-1 tvg-id="239" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Pitaara.png" group-title="Movies - PinrangTV",Pitaara
+https://extratvteam.site/JIO/autoq.php?c=946
+#EXTINF:-1 tvg-id="240" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Maha_Movies.png" group-title="Movies - PinrangTV",Maha Movies
+https://extratvteam.site/JIO/autoq.php?c=809
+#EXTINF:-1 tvg-id="241" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_Digital_Plus.png" group-title="Movies - PinrangTV",Raj Digital Plus
+https://extratvteam.site/JIO/autoq.php?c=683
+#EXTINF:-1 tvg-id="242" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Osar_Movies.png" group-title="Movies - PinrangTV",Oscar Movies
+https://extratvteam.site/JIO/autoq.php?c=883
+#EXTINF:-1 tvg-id="243" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Amaar_Cinema.png" group-title="Movies - PinrangTV",Amaar Cinema
+https://extratvteam.site/JIO/autoq.php?c=1101
+#EXTINF:-1 tvg-id="244" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ABN_Andhra_Jyothi.png" group-title="News - PinrangTV",ABN Andhra Jyothi
+https://extratvteam.site/JIO/autoq.php?c=666
+#EXTINF:-1 tvg-id="245" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News_Nation.png" group-title="News - PinrangTV",News Nation
+https://extratvteam.site/JIO/autoq.php?c=499
+#EXTINF:-1 tvg-id="246" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Kanak_TV.png" group-title="News - PinrangTV",Kanak News
+https://extratvteam.site/JIO/autoq.php?c=718
+#EXTINF:-1 tvg-id="247" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/India_news.png" group-title="News - PinrangTV",India news
+https://extratvteam.site/JIO/autoq.php?c=498
+#EXTINF:-1 tvg-id="248" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Puthiya_Thalimurai.png" group-title="News - PinrangTV",Puthiya Thalimurai
+https://extratvteam.site/JIO/autoq.php?c=677
+#EXTINF:-1 tvg-id="249" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_BIHAR.png" group-title="News - PinrangTV",News18 BIHAR
+https://extratvteam.site/JIO/autoq.php?c=693
+#EXTINF:-1 tvg-id="250" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Dighvijay_TV.png" group-title="News - PinrangTV",Dighvijay TV
+https://extratvteam.site/JIO/autoq.php?c=923
+#EXTINF:-1 tvg-id="251" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Kalinga.png" group-title="News - PinrangTV",Zee Delhi NCR Haryana
+https://extratvteam.site/JIO/autoq.php?c=724
+#EXTINF:-1 tvg-id="252" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_News_Gujarati.png" group-title="News - PinrangTV",News18 Gujarati
+https://extratvteam.site/JIO/autoq.php?c=620
+#EXTINF:-1 tvg-id="253" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Tez.png" group-title="News - PinrangTV",Good News Today
+https://extratvteam.site/JIO/autoq.php?c=502
+#EXTINF:-1 tvg-id="254" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Asianet_News.png" group-title="News - PinrangTV",Asianet News
+https://extratvteam.site/JIO/autoq.php?c=180
+#EXTINF:-1 tvg-id="255" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_SD.png" group-title="Infotainment - PinrangTV",Sony BBC Earth SD
+https://extratvteam.site/JIO/autoq.php?c=823
+#EXTINF:-1 tvg-id="256" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Kannada_News.png" group-title="News - PinrangTV",News18 Kannada News
+https://extratvteam.site/JIO/autoq.php?c=653
+#EXTINF:-1 tvg-id="257" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News7_Tamil.png" group-title="News - PinrangTV",News7 Tamil
+https://extratvteam.site/JIO/autoq.php?c=673
+#EXTINF:-1 tvg-id="258" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DY_365.png" group-title="News - PinrangTV",DY 365
+https://extratvteam.site/JIO/autoq.php?c=633
+#EXTINF:-1 tvg-id="259" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/IBN_Lokmat.png" group-title="News - PinrangTV",News18 Lokmat
+https://extratvteam.site/JIO/autoq.php?c=232
+#EXTINF:-1 tvg-id="260" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Pratidin_News.png" group-title="News - PinrangTV",Pratidin Time
+https://extratvteam.site/JIO/autoq.php?c=647
+#EXTINF:-1 tvg-id="261" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Tv_9_Gujarat.png" group-title="News - PinrangTV",Tv 9 Gujarat
+https://extratvteam.site/JIO/autoq.php?c=616
+#EXTINF:-1 tvg-id="262" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_RAJASTHAN.png" group-title="News - PinrangTV",News18 RAJASTHAN
+https://extratvteam.site/JIO/autoq.php?c=531
+#EXTINF:-1 tvg-id="263" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Bangla_News.png" group-title="News - PinrangTV",News18 Bangla News
+https://extratvteam.site/JIO/autoq.php?c=717
+#EXTINF:-1 tvg-id="264" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_News.png" group-title="News - PinrangTV",Sun News
+https://extratvteam.site/JIO/autoq.php?c=676
+#EXTINF:-1 tvg-id="265" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News_State_UK_UP.png" group-title="News - PinrangTV",News State UK UP
+https://extratvteam.site/JIO/autoq.php?c=792
+#EXTINF:-1 tvg-id="266" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News_18_Assam.png" group-title="News - PinrangTV",News 18 Assam
+https://extratvteam.site/JIO/autoq.php?c=627
+#EXTINF:-1 tvg-id="267" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_Asmita.png" group-title="News - PinrangTV",ABP Asmita
+https://extratvteam.site/JIO/autoq.php?c=641
+#EXTINF:-1 tvg-id="268" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_MP.png" group-title="News - PinrangTV",News18 MP
+https://extratvteam.site/JIO/autoq.php?c=529
+#EXTINF:-1 tvg-id="269" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Kashish_News.png" group-title="News - PinrangTV",Kashish News
+https://extratvteam.site/JIO/autoq.php?c=770
+#EXTINF:-1 tvg-id="270" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/V6_News.png" group-title="News - PinrangTV",V6 News
+https://extratvteam.site/JIO/autoq.php?c=769
+#EXTINF:-1 tvg-id="271" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Andhra_pradesh.png" group-title="News - PinrangTV",ETV Andhra pradesh
+https://extratvteam.site/JIO/autoq.php?c=614
+#EXTINF:-1 tvg-id="272" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News_18_Tamilnadu.png" group-title="News - PinrangTV",News 18 Tamilnadu
+https://extratvteam.site/JIO/autoq.php?c=615
+#EXTINF:-1 tvg-id="273" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Manorama_News.png" group-title="News - PinrangTV",Manorama News
+https://extratvteam.site/JIO/autoq.php?c=662
+#EXTINF:-1 tvg-id="274" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Mathrubhumi_News.png" group-title="News - PinrangTV",Mathrubhumi News
+https://extratvteam.site/JIO/autoq.php?c=780
+#EXTINF:-1 tvg-id="275" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/India_Today.png" group-title="News - PinrangTV",India Today
+https://extratvteam.site/JIO/autoq.php?c=493
+#EXTINF:-1 tvg-id="276" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Sports.png" group-title="Sports - PinrangTV",DD Sports
+https://extratvteam.site/JIO/autoq.php?c=204
+#EXTINF:-1 tvg-id="277" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MK_Music.png" group-title="Music - PinrangTV",MK Music
+https://extratvteam.site/JIO/autoq.php?c=845
+#EXTINF:-1 tvg-id="278" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Music_India.png" group-title="Music - PinrangTV",Music India
+https://extratvteam.site/JIO/autoq.php?c=250
+#EXTINF:-1 tvg-id="279" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_Music_Kannada.png" group-title="Music - PinrangTV",Raj Music Kannada
+https://extratvteam.site/JIO/autoq.php?c=743
+#EXTINF:-1 tvg-id="280" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ramdhenu.png" group-title="Music - PinrangTV",Ramdhenu
+https://extratvteam.site/JIO/autoq.php?c=639
+#EXTINF:-1 tvg-id="281" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_Musix.png" group-title="Music - PinrangTV",Raj Musix
+https://extratvteam.site/JIO/autoq.php?c=748
+#EXTINF:-1 tvg-id="282" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/PTC_Chak_De.png" group-title="Music - PinrangTV",PTC Chak De
+https://extratvteam.site/JIO/autoq.php?c=1172
+#EXTINF:-1 tvg-id="283" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/9X_Tashan.png" group-title="Music - PinrangTV",9X Tashan
+https://extratvteam.site/JIO/autoq.php?c=732
+#EXTINF:-1 tvg-id="284" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sahana_Music.png" group-title="Music - PinrangTV",Sahana Music
+https://extratvteam.site/JIO/autoq.php?c=749
+#EXTINF:-1 tvg-id="285" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/mh1_Music.png" group-title="Music - PinrangTV",mh1 (Music)
+https://extratvteam.site/JIO/autoq.php?c=742
+#EXTINF:-1 tvg-id="286" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sangeet_Marathi.png" group-title="Music - PinrangTV",Sangeet Marathi
+https://extratvteam.site/JIO/autoq.php?c=735
+#EXTINF:-1 tvg-id="287" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/9x_Jhakaas.png" group-title="Music - PinrangTV",9x Jhakaas
+https://extratvteam.site/JIO/autoq.php?c=441
+#EXTINF:-1 tvg-id="288" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Surya_Music.png" group-title="Music - PinrangTV",Surya Music
+https://extratvteam.site/JIO/autoq.php?c=747
+#EXTINF:-1 tvg-id="289" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_Music_Telugu.png" group-title="Music - PinrangTV",Raj Music Telugu
+https://extratvteam.site/JIO/autoq.php?c=737
+#EXTINF:-1 tvg-id="290" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Kappa_TV.png" group-title="Music - PinrangTV",Kappa TV
+https://extratvteam.site/JIO/autoq.php?c=786
+#EXTINF:-1 tvg-id="291" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_Music_Malayalam.png" group-title="Music - PinrangTV",Raj Music Malayalam
+https://extratvteam.site/JIO/autoq.php?c=739
+#EXTINF:-1 tvg-id="292" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/10_TV.png" group-title="News - PinrangTV",10 TV
+https://extratvteam.site/JIO/autoq.php?c=832
+#EXTINF:-1 tvg-id="293" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_News_MP_Chattisgarh.png" group-title="News - PinrangTV",Zee News MP Chattisgarh
+https://extratvteam.site/JIO/autoq.php?c=658
+#EXTINF:-1 tvg-id="294" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/IBC-24.png" group-title="News - PinrangTV",IBC24
+https://extratvteam.site/JIO/autoq.php?c=503
+#EXTINF:-1 tvg-id="295" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/VTV_Gujarati.png" group-title="News - PinrangTV",VTV Gujarati
+https://extratvteam.site/JIO/autoq.php?c=642
+#EXTINF:-1 tvg-id="296" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/TV_5_News.png" group-title="News - PinrangTV",TV 5 News
+https://extratvteam.site/JIO/autoq.php?c=668
+#EXTINF:-1 tvg-id="297" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Exclusive.png" group-title="Entertainment - PinrangTV",Jio Exclusive HD
+https://extratvteam.site/JIO/autoq.php?c=866
+#EXTINF:-1 tvg-id="298" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Hi_Dost.png" group-title="Entertainment - PinrangTV",Hi Dost!
+https://extratvteam.site/JIO/autoq.php?c=1232
+#EXTINF:-1 tvg-id="299" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Assam_Talks.png" group-title="News - PinrangTV",Assam Talks
+https://extratvteam.site/JIO/autoq.php?c=675
+#EXTINF:-1 tvg-id="300" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News_Time_TV.png" group-title="News - PinrangTV",News Time TV
+https://extratvteam.site/JIO/autoq.php?c=687
+#EXTINF:-1 tvg-id="301" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Purvaiya.png" group-title="News - PinrangTV",Zee Bihar Jharkhand
+https://extratvteam.site/JIO/autoq.php?c=661
+#EXTINF:-1 tvg-id="302" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Prameya_News_7.png" group-title="News - PinrangTV",Prameya News 7
+https://extratvteam.site/JIO/autoq.php?c=779
+#EXTINF:-1 tvg-id="303" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CVR_News.png" group-title="News - PinrangTV",CVR News
+https://extratvteam.site/JIO/autoq.php?c=784
+#EXTINF:-1 tvg-id="304" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Rajasthan.png" group-title="News - PinrangTV",Zee Rajasthan
+https://extratvteam.site/JIO/autoq.php?c=659
+#EXTINF:-1 tvg-id="305" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_UP.png" group-title="News - PinrangTV",News18 UP
+https://extratvteam.site/JIO/autoq.php?c=530
+#EXTINF:-1 tvg-id="306" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_News_Oriya.png" group-title="News - PinrangTV",News18 Oriya
+https://extratvteam.site/JIO/autoq.php?c=696
+#EXTINF:-1 tvg-id="307" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/T_News.png" group-title="News - PinrangTV",T News
+https://extratvteam.site/JIO/autoq.php?c=667
+#EXTINF:-1 tvg-id="308" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sandesh_News.png" group-title="News - PinrangTV",Sandesh News
+https://extratvteam.site/JIO/autoq.php?c=782
+#EXTINF:-1 tvg-id="309" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_News.png" group-title="News - PinrangTV",DD News
+https://extratvteam.site/JIO/autoq.php?c=203
+#EXTINF:-1 tvg-id="310" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jaya_Plus.png" group-title="News - PinrangTV",Jaya Plus
+https://extratvteam.site/JIO/autoq.php?c=418
+#EXTINF:-1 tvg-id="311" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Malai_Murasu.png" group-title="News - PinrangTV",Malai Murasu
+https://extratvteam.site/JIO/autoq.php?c=826
+#EXTINF:-1 tvg-id="312" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_24_Kalak.png" group-title="News - PinrangTV",Zee 24 Kalak
+https://extratvteam.site/JIO/autoq.php?c=929
+#EXTINF:-1 tvg-id="313" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/BBC_World_News.png" group-title="News - PinrangTV",BBC World News
+https://extratvteam.site/JIO/autoq.php?c=142
+#EXTINF:-1 tvg-id="314" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Telangana.png" group-title="News - PinrangTV",ETV Telangana
+https://extratvteam.site/JIO/autoq.php?c=630
+#EXTINF:-1 tvg-id="315" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Kalinga_TV.png" group-title="News - PinrangTV",Kalinga TV
+https://extratvteam.site/JIO/autoq.php?c=781
+#EXTINF:-1 tvg-id="316" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Janam_TV.png" group-title="News - PinrangTV",Janam TV
+https://extratvteam.site/JIO/autoq.php?c=810
+#EXTINF:-1 tvg-id="317" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/India_News_UP.png" group-title="News - PinrangTV",India News UP
+https://extratvteam.site/JIO/autoq.php?c=512
+#EXTINF:-1 tvg-id="318" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News_18_Kerala.png" group-title="News - PinrangTV",News 18 Kerala
+https://extratvteam.site/JIO/autoq.php?c=965
+#EXTINF:-1 tvg-id="319" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Maha_News.png" group-title="News - PinrangTV",Maha News
+https://extratvteam.site/JIO/autoq.php?c=800
+#EXTINF:-1 tvg-id="320" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/HM_TV.png" group-title="News - PinrangTV",HM TV
+https://extratvteam.site/JIO/autoq.php?c=665
+#EXTINF:-1 tvg-id="321" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Chutti_TV.png" group-title="Kids - PinrangTV",Chutti TV
+https://extratvteam.site/JIO/autoq.php?c=557
+#EXTINF:-1 tvg-id="322" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Chintu_TV.png" group-title="Kids - PinrangTV",Chintu TV
+https://extratvteam.site/JIO/autoq.php?c=555
+#EXTINF:-1 tvg-id="323" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/sonic_Tamil.png" group-title="Kids - PinrangTV",sonic Tamil
+https://extratvteam.site/JIO/autoq.php?c=290
+#EXTINF:-1 tvg-id="324" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Kushi_TV.png" group-title="Kids - PinrangTV",Kushi TV
+https://extratvteam.site/JIO/autoq.php?c=558
+#EXTINF:-1 tvg-id="325" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Telugu.png" group-title="Kids - PinrangTV",Cartoon Network Telugu
+https://extratvteam.site/JIO/autoq.php?c=166
+#EXTINF:-1 tvg-id="326" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Kids_Tamil.png" group-title="Kids - PinrangTV",Discovery Kids Tamil
+https://extratvteam.site/JIO/autoq.php?c=550
+#EXTINF:-1 tvg-id="327" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Kisan.png" group-title="Infotainment - PinrangTV",DD Kisan
+https://extratvteam.site/JIO/autoq.php?c=583
+#EXTINF:-1 tvg-id="328" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Life.png" group-title="Infotainment - PinrangTV",ETV Life
+https://extratvteam.site/JIO/autoq.php?c=570
+#EXTINF:-1 tvg-id="329" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Vanitha.png" group-title="Infotainment - PinrangTV",Vanitha
+https://extratvteam.site/JIO/autoq.php?c=775
+#EXTINF:-1 tvg-id="330" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CVR_Health.png" group-title="Infotainment - PinrangTV",CVR Health
+https://extratvteam.site/JIO/autoq.php?c=774
+#EXTINF:-1 tvg-id="331" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Turbo.png" group-title="Infotainment - PinrangTV",Discovery Turbo
+https://extratvteam.site/JIO/autoq.php?c=541
+#EXTINF:-1 tvg-id="332" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD_English.png" group-title="Infotainment - PinrangTV",Sony BBC Earth HD English
+https://extratvteam.site/JIO/autoq.php?c=852
+#EXTINF:-1 tvg-id="333" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CNBC_Bazaar_MNO.png" group-title="Business - PinrangTV",CNBC Bazaar (MNO)
+https://extratvteam.site/JIO/autoq.php?c=490
+#EXTINF:-1 tvg-id="334" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Disha_tv.png" group-title="Devotional - PinrangTV",Disha tv
+https://extratvteam.site/JIO/autoq.php?c=599
+#EXTINF:-1 tvg-id="335" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Vedic_TV.png" group-title="Devotional - PinrangTV",Vedic TV
+https://extratvteam.site/JIO/autoq.php?c=856
+#EXTINF:-1 tvg-id="336" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Darshan_24.png" group-title="Devotional - PinrangTV",Darshan 24
+https://extratvteam.site/JIO/autoq.php?c=611
+#EXTINF:-1 tvg-id="337" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ishwar_TV.png" group-title="Devotional - PinrangTV",Ishwar TV
+https://extratvteam.site/JIO/autoq.php?c=601
+#EXTINF:-1 tvg-id="338" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Channel_Win.png" group-title="Devotional - PinrangTV",Channel Win
+https://extratvteam.site/JIO/autoq.php?c=605
+#EXTINF:-1 tvg-id="339" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nambikkai.png" group-title="Devotional - PinrangTV",Nambikkai
+https://extratvteam.site/JIO/autoq.php?c=603
+#EXTINF:-1 tvg-id="340" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Shubhsandesh_TV.png" group-title="Devotional - PinrangTV",Shubhsandesh TV
+https://extratvteam.site/JIO/autoq.php?c=608
+#EXTINF:-1 tvg-id="341" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Shalom.png" group-title="Devotional - PinrangTV",Shalom
+https://extratvteam.site/JIO/autoq.php?c=606
+#EXTINF:-1 tvg-id="342" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/evidya_12.png" group-title="Educational - PinrangTV",PM e Vidya 12
+https://extratvteam.site/JIO/autoq.php?c=1532
+#EXTINF:-1 tvg-id="343" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Gulistan_News.png" group-title="News - PinrangTV",Gulistan News
+https://extratvteam.site/JIO/autoq.php?c=807
+#EXTINF:-1 tvg-id="344" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jan_TV.png" group-title="News - PinrangTV",Jan TV
+https://extratvteam.site/JIO/autoq.php?c=768
+#EXTINF:-1 tvg-id="345" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_News_Kannada.png" group-title="News - PinrangTV",Raj News Kannada
+https://extratvteam.site/JIO/autoq.php?c=651
+#EXTINF:-1 tvg-id="346" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Urdu.png" group-title="News - PinrangTV",News18 JKLH
+https://extratvteam.site/JIO/autoq.php?c=694
+#EXTINF:-1 tvg-id="347" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/India_News_Haryana.png" group-title="News - PinrangTV",India News Haryana
+https://extratvteam.site/JIO/autoq.php?c=516
+#EXTINF:-1 tvg-id="348" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/India_News_Rajasthan.png" group-title="News - PinrangTV",India News Rajasthan
+https://extratvteam.site/JIO/autoq.php?c=513
+#EXTINF:-1 tvg-id="349" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/GS_TV.png" group-title="News - PinrangTV",GS TV
+https://extratvteam.site/JIO/autoq.php?c=643
+#EXTINF:-1 tvg-id="350" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MBC.png" group-title="News - PinrangTV",MBC
+https://extratvteam.site/JIO/autoq.php?c=631
+#EXTINF:-1 tvg-id="351" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sahara_Samay_Bihar.png" group-title="News - PinrangTV",Sahara Samay Bihar
+https://extratvteam.site/JIO/autoq.php?c=509
+#EXTINF:-1 tvg-id="352" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_SANGAM.png" group-title="News - PinrangTV",Zee Hindustan
+https://extratvteam.site/JIO/autoq.php?c=652
+#EXTINF:-1 tvg-id="353" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Hindi_Khabar.png" group-title="News - PinrangTV",Hindi Khabar
+https://extratvteam.site/JIO/autoq.php?c=808
+#EXTINF:-1 tvg-id="354" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Punjabi_HP_Haryana.png" group-title="News - PinrangTV",Zee Punjabi HP Haryana
+https://extratvteam.site/JIO/autoq.php?c=654
+#EXTINF:-1 tvg-id="355" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/First_India_News.png" group-title="News - PinrangTV",First India News
+https://extratvteam.site/JIO/autoq.php?c=927
+#EXTINF:-1 tvg-id="356" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/SAHARA_SAMAY_MP.png" group-title="News - PinrangTV",SAHARA SAMAY MP
+https://extratvteam.site/JIO/autoq.php?c=507
+#EXTINF:-1 tvg-id="357" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Captain_News.png" group-title="News - PinrangTV",Captain News
+https://extratvteam.site/JIO/autoq.php?c=645
+#EXTINF:-1 tvg-id="358" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/I_News.png" group-title="News - PinrangTV",I News
+https://extratvteam.site/JIO/autoq.php?c=790
+#EXTINF:-1 tvg-id="359" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News_X.png" group-title="News - PinrangTV",News X
+https://extratvteam.site/JIO/autoq.php?c=495
+#EXTINF:-1 tvg-id="360" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Mirror_Now.png" group-title="News - PinrangTV",Mirror Now
+https://extratvteam.site/JIO/autoq.php?c=491
+#EXTINF:-1 tvg-id="361" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/India_News_MP.png" group-title="News - PinrangTV",India News MP
+https://extratvteam.site/JIO/autoq.php?c=515
+#EXTINF:-1 tvg-id="362" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sathiyam.png" group-title="News - PinrangTV",Sathiyam TV
+https://extratvteam.site/JIO/autoq.php?c=671
+#EXTINF:-1 tvg-id="363" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Naxatra_News.png" group-title="News - PinrangTV",Naxatra News
+https://extratvteam.site/JIO/autoq.php?c=799
+#EXTINF:-1 tvg-id="364" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Living_Foodz.png" group-title="News - PinrangTV",Zee UP UK
+https://extratvteam.site/JIO/autoq.php?c=572
+#EXTINF:-1 tvg-id="365" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CNN.png" group-title="News - PinrangTV",CNN
+https://extratvteam.site/JIO/autoq.php?c=193
+#EXTINF:-1 tvg-id="366" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Chardikla_Time_TV.png" group-title="News - PinrangTV",Chardikla Time TV
+https://extratvteam.site/JIO/autoq.php?c=517
+#EXTINF:-1 tvg-id="367" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sudarshan.png" group-title="News - PinrangTV",Sudarshan
+https://extratvteam.site/JIO/autoq.php?c=518
+#EXTINF:-1 tvg-id="368" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/JK_24x7_News.png" group-title="News - PinrangTV",JK 24x7 News
+https://extratvteam.site/JIO/autoq.php?c=789
+#EXTINF:-1 tvg-id="369" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/AL_Jazeera.png" group-title="News - PinrangTV",AL Jazeera
+https://extratvteam.site/JIO/autoq.php?c=494
+#EXTINF:-1 tvg-id="370" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/PTC_News.png" group-title="News - PinrangTV",PTC News
+https://extratvteam.site/JIO/autoq.php?c=1170
+#EXTINF:-1 tvg-id="371" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Taaza_TV.png" group-title="News - PinrangTV",Taaza TV
+https://extratvteam.site/JIO/autoq.php?c=791
+#EXTINF:-1 tvg-id="372" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Live_Today.png" group-title="News - PinrangTV",Live Today
+https://extratvteam.site/JIO/autoq.php?c=771
+#EXTINF:-1 tvg-id="373" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sahara_Samay_Rastriya.png" group-title="News - PinrangTV",Sahara Samay Rastriya
+https://extratvteam.site/JIO/autoq.php?c=506
+#EXTINF:-1 tvg-id="374" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Mh_One_News.png" group-title="News - PinrangTV",Mh One News
+https://extratvteam.site/JIO/autoq.php?c=511
+#EXTINF:-1 tvg-id="375" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Janta_TV.png" group-title="News - PinrangTV",Janta TV
+https://extratvteam.site/JIO/autoq.php?c=880
+#EXTINF:-1 tvg-id="376" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Haryana_and_HP_News.png" group-title="News - PinrangTV",News18 Punjab Haryana
+https://extratvteam.site/JIO/autoq.php?c=655
+#EXTINF:-1 tvg-id="377" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Total_TV.png" group-title="News - PinrangTV",Total TV
+https://extratvteam.site/JIO/autoq.php?c=855
+#EXTINF:-1 tvg-id="378" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/SAHARA_SAMAY_UP.png" group-title="News - PinrangTV",SAHARA SAMAY UP
+https://extratvteam.site/JIO/autoq.php?c=508
+#EXTINF:-1 tvg-id="379" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Wion.png" group-title="News - PinrangTV",Wion
+https://extratvteam.site/JIO/autoq.php?c=412
+#EXTINF:-1 tvg-id="380" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/K_News_India.png" group-title="News - PinrangTV",K News India
+https://extratvteam.site/JIO/autoq.php?c=783
+#EXTINF:-1 tvg-id="381" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/North_East_Live.png" group-title="News - PinrangTV",North East Live
+https://extratvteam.site/JIO/autoq.php?c=637
+#EXTINF:-1 tvg-id="382" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Samachar_Plus.png" group-title="News - PinrangTV",Samachar Plus
+https://extratvteam.site/JIO/autoq.php?c=804
+#EXTINF:-1 tvg-id="383" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Samay_Rajasthan.png" group-title="News - PinrangTV",Samay Rajasthan
+https://extratvteam.site/JIO/autoq.php?c=793
+#EXTINF:-1 tvg-id="384" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_News_Telugu.png" group-title="News - PinrangTV",Raj News Telugu
+https://extratvteam.site/JIO/autoq.php?c=664
+#EXTINF:-1 tvg-id="385" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/dw.png" group-title="News - PinrangTV",dw
+https://extratvteam.site/JIO/autoq.php?c=496
+#EXTINF:-1 tvg-id="386" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Loksabha_TV.png" group-title="News - PinrangTV",Sansad TV
+https://extratvteam.site/JIO/autoq.php?c=522
+#EXTINF:-1 tvg-id="387" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Rajyasabha.png" group-title="News - PinrangTV",Sansad TV HD
+https://extratvteam.site/JIO/autoq.php?c=520
+#EXTINF:-1 tvg-id="388" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/TV_5_Monde.png" group-title="News - PinrangTV",TV5 Monde
+https://extratvteam.site/JIO/autoq.php?c=885
+#EXTINF:-1 tvg-id="389" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MK_News.png" group-title="News - PinrangTV",MKN
+https://extratvteam.site/JIO/autoq.php?c=846
+#EXTINF:-1 tvg-id="390" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jaihind_tv.png" group-title="News - PinrangTV",Jaihind tv
+https://extratvteam.site/JIO/autoq.php?c=465
+#EXTINF:-1 tvg-id="391" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jeevan_TV.png" group-title="News - PinrangTV",Jeevan TV
+https://extratvteam.site/JIO/autoq.php?c=842
+#EXTINF:-1 tvg-id="392" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Bansal_News.png" group-title="News - PinrangTV",Bansal News
+https://extratvteam.site/JIO/autoq.php?c=1179
+#EXTINF:-1 tvg-id="393" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/India_Voice.png" group-title="News - PinrangTV",India Voice
+https://extratvteam.site/JIO/autoq.php?c=788
+#EXTINF:-1 tvg-id="394" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/GoodNews_Channel.png" group-title="News - PinrangTV",GoodNews Channel
+https://extratvteam.site/JIO/autoq.php?c=907
+#EXTINF:-1 tvg-id="395" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News_India_24_X_7.png" group-title="News - PinrangTV",News India 24x7
+https://extratvteam.site/JIO/autoq.php?c=850
+#EXTINF:-1 tvg-id="396" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Living_India_News.png" group-title="News - PinrangTV",Living India News
+https://extratvteam.site/JIO/autoq.php?c=831
+#EXTINF:-1 tvg-id="397" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/SMBC_TV.png" group-title="News - PinrangTV",SMBC TV
+https://extratvteam.site/JIO/autoq.php?c=851
+#EXTINF:-1 tvg-id="398" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sadhna_News_Plus.png" group-title="News - PinrangTV",Sadhna News Plus
+https://extratvteam.site/JIO/autoq.php?c=519
+#EXTINF:-1 tvg-id="399" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Channel_News_Asia_International.png" group-title="News - PinrangTV",Channel News Asia International
+https://extratvteam.site/JIO/autoq.php?c=764
+#EXTINF:-1 tvg-id="400" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/France_24.png" group-title="News - PinrangTV",France 24
+https://extratvteam.site/JIO/autoq.php?c=838
+#EXTINF:-1 tvg-id="401" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_News_Malayalam.png" group-title="News - PinrangTV",Raj News Malayalam
+https://extratvteam.site/JIO/autoq.php?c=650
+#EXTINF:-1 tvg-id="402" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Euro_News.png" group-title="News - PinrangTV",Euro News
+https://extratvteam.site/JIO/autoq.php?c=837
+#EXTINF:-1 tvg-id="403" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Swadesh_News.png" group-title="News - PinrangTV",Swadesh News
+https://extratvteam.site/JIO/autoq.php?c=1185
+#EXTINF:-1 tvg-id="404" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CVR_English.png" group-title="News - PinrangTV",CVR English
+https://extratvteam.site/JIO/autoq.php?c=787
+#EXTINF:-1 tvg-id="405" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DNN.png" group-title="News - PinrangTV",DNN
+https://extratvteam.site/JIO/autoq.php?c=958
+#EXTINF:-1 tvg-id="406" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_News_24x7.png" group-title="News - PinrangTV",Raj NewsÂ 24x7
+https://extratvteam.site/JIO/autoq.php?c=767
+#EXTINF:-1 tvg-id="407" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Telugu.png" group-title="Kids - PinrangTV",Sony Yay Telugu
+https://extratvteam.site/JIO/autoq.php?c=874
+#EXTINF:-1 tvg-id="408" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Tamil.png" group-title="Kids - PinrangTV",Sony Yay Tamil
+https://extratvteam.site/JIO/autoq.php?c=873
+#EXTINF:-1 tvg-id="409" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nickelodeon_Jr.png" group-title="Kids - PinrangTV",Nickelodeon Jr.
+https://extratvteam.site/JIO/autoq.php?c=548
+#EXTINF:-1 tvg-id="410" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CN_HD_Tamil.png" group-title="Kids - PinrangTV",CN HD+ Tamil
+https://extratvteam.site/JIO/autoq.php?c=1081
+#EXTINF:-1 tvg-id="411" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Kochu_TV.png" group-title="Kids - PinrangTV",Kochu TV
+https://extratvteam.site/JIO/autoq.php?c=556
+#EXTINF:-1 tvg-id="412" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CN_HD_Telugu.png" group-title="Kids - PinrangTV",CN HD+ Telugu
+https://extratvteam.site/JIO/autoq.php?c=1080
+#EXTINF:-1 tvg-id="413" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_bharati.png" group-title="Infotainment - PinrangTV",DD bharati
+https://extratvteam.site/JIO/autoq.php?c=580
+#EXTINF:-1 tvg-id="414" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Care_World.png" group-title="Infotainment - PinrangTV",Care World
+https://extratvteam.site/JIO/autoq.php?c=582
+#EXTINF:-1 tvg-id="415" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Insight.png" group-title="Infotainment - PinrangTV",Insight HD
+https://extratvteam.site/JIO/autoq.php?c=888
+#EXTINF:-1 tvg-id="416" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Malayalam.png" group-title="Kids - PinrangTV",Nick Malayalam
+https://extratvteam.site/JIO/autoq.php?c=1340
+#EXTINF:-1 tvg-id="417" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Bangla.png" group-title="Kids - PinrangTV",Nick Bangla
+https://extratvteam.site/JIO/autoq.php?c=1341
+#EXTINF:-1 tvg-id="418" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Marathi.png" group-title="Kids - PinrangTV",Nick Marathi
+https://extratvteam.site/JIO/autoq.php?c=1342
+#EXTINF:-1 tvg-id="419" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Malayalam.png" group-title="Kids - PinrangTV",Sonic Malayalam
+https://extratvteam.site/JIO/autoq.php?c=1344
+#EXTINF:-1 tvg-id="420" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Bangla.png" group-title="Kids - PinrangTV",Sonic Bangla
+https://extratvteam.site/JIO/autoq.php?c=1345
+#EXTINF:-1 tvg-id="421" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Marathi.png" group-title="Kids - PinrangTV",Sonic Marathi
+https://extratvteam.site/JIO/autoq.php?c=1346
+#EXTINF:-1 tvg-id="422" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Digishala.png" group-title="Educational - PinrangTV",Digishala
+https://extratvteam.site/JIO/autoq.php?c=1227
+#EXTINF:-1 tvg-id="423" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Top_Tutor.png" group-title="Educational - PinrangTV",Top Tutor
+https://extratvteam.site/JIO/autoq.php?c=1337
+#EXTINF:-1 tvg-id="424" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Gyan_Brikshya.png" group-title="Educational - PinrangTV",Gyan Brikshya
+https://extratvteam.site/JIO/autoq.php?c=1428
+#EXTINF:-1 tvg-id="425" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/TV_Teacher.png" group-title="Educational - PinrangTV",TV Teacher
+https://extratvteam.site/JIO/autoq.php?c=1447
+#EXTINF:-1 tvg-id="426" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Utkarsh_Primary.png" group-title="Educational - PinrangTV",Utkarsh Primary
+https://extratvteam.site/JIO/autoq.php?c=1434
+#EXTINF:-1 tvg-id="427" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Utkarsh_Middle.png" group-title="Educational - PinrangTV",Utkarsh HSBTE
+https://extratvteam.site/JIO/autoq.php?c=1435
+#EXTINF:-1 tvg-id="428" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Utkarsh_Secondary.png" group-title="Educational - PinrangTV",Utkarsh Secondary
+https://extratvteam.site/JIO/autoq.php?c=1436
+#EXTINF:-1 tvg-id="429" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Utkarsh_Higher.png" group-title="Educational - PinrangTV",Utkarsh Higher
+https://extratvteam.site/JIO/autoq.php?c=1437
+#EXTINF:-1 tvg-id="430" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Parmarth_TV.png" group-title="Devotional - PinrangTV",Parmarth TV
+https://extratvteam.site/JIO/autoq.php?c=1449
+#EXTINF:-1 tvg-id="431" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Lionsgate_Play.png" group-title="Entertainment - PinrangTV",Lionsgate Play
+https://extratvteam.site/JIO/autoq.php?c=2327
+#EXTINF:-1 tvg-id="432" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket_2_HD.png" group-title="Sports - PinrangTV",Jio Cricket 2 HD
+https://extratvteam.site/JIO/autoq.php?c=1161
+#EXTINF:-1 tvg-id="433" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket_3.png" group-title="Sports - PinrangTV",Jio Cricket 3 HD
+https://extratvteam.site/JIO/autoq.php?c=1166
+#EXTINF:-1 tvg-id="434" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Gujarati_Cinema.png" group-title="Movies - PinrangTV",Colors Gujarati Cinema
+https://extratvteam.site/JIO/autoq.php?c=1324
+#EXTINF:-1 tvg-id="435" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Marathi_SD.png" group-title="Entertainment - PinrangTV",Colors Marathi SD
+https://extratvteam.site/JIO/autoq.php?c=1326
+#EXTINF:-1 tvg-id="436" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_SD.png" group-title="Entertainment - PinrangTV",Colors SD
+https://extratvteam.site/JIO/autoq.php?c=1368
+#EXTINF:-1 tvg-id="437" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bangla_SD.png" group-title="Entertainment - PinrangTV",Colors Bangla SD
+https://extratvteam.site/JIO/autoq.php?c=1369
+#EXTINF:-1 tvg-id="438" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Kannada_SD.png" group-title="Entertainment - PinrangTV",Colors Kannada SD
+https://extratvteam.site/JIO/autoq.php?c=1370
+#EXTINF:-1 tvg-id="439" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/VH1.png" group-title="Music - PinrangTV",VH1
+https://extratvteam.site/JIO/autoq.php?c=1378
+#EXTINF:-1 tvg-id="440" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_SD.png" group-title="Music - PinrangTV",MTV Beats SD
+https://extratvteam.site/JIO/autoq.php?c=1400
+#EXTINF:-1 tvg-id="441" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Birla_Brainiacs.png" group-title="Educational - PinrangTV",Birla Brainiacs
+https://extratvteam.site/JIO/autoq.php?c=1521
+#EXTINF:-1 tvg-id="442" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MI_TV.png" group-title="Sports - PinrangTV",MI TV
+https://extratvteam.site/JIO/autoq.php?c=1529
+#EXTINF:-1 tvg-id="443" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Gyanvani_1.png" group-title="Educational - PinrangTV",Gyanvani 1
+https://extratvteam.site/JIO/autoq.php?c=1531
+#EXTINF:-1 tvg-id="444" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Tute.png" group-title="Educational - PinrangTV",Tute
+https://extratvteam.site/JIO/autoq.php?c=1542
+#EXTINF:-1 tvg-id="445" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Punjab_School_TV.png" group-title="Educational - PinrangTV",Punjab School TV
+https://extratvteam.site/JIO/autoq.php?c=1545
+#EXTINF:-1 tvg-id="446" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Himshiksha_Elementary.png" group-title="Educational - PinrangTV",Himshiksha Elementary
+https://extratvteam.site/JIO/autoq.php?c=1562
+#EXTINF:-1 tvg-id="447" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Himshiksha_Higher.png" group-title="Educational - PinrangTV",Himshiksha Higher
+https://extratvteam.site/JIO/autoq.php?c=1563
+#EXTINF:-1 tvg-id="448" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Himshiksha_Vocational.png" group-title="Educational - PinrangTV",Himshiksha Vocational
+https://extratvteam.site/JIO/autoq.php?c=1564
+#EXTINF:-1 tvg-id="449" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/AP_BIE_ARTS.png" group-title="Educational - PinrangTV",AP-BIE-ARTS
+https://extratvteam.site/JIO/autoq.php?c=1565
+#EXTINF:-1 tvg-id="450" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/AP_BIE_SCIENCE.png" group-title="Educational - PinrangTV",AP-BIE-SCIENCE
+https://extratvteam.site/JIO/autoq.php?c=1566
+#EXTINF:-1 tvg-id="451" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/AP_CIE_SIVE.png" group-title="Educational - PinrangTV",AP-CIE-SIVE
+https://extratvteam.site/JIO/autoq.php?c=1567
+#EXTINF:-1 tvg-id="452" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sanskritam.png" group-title="Educational - PinrangTV",Sanskrit
+https://extratvteam.site/JIO/autoq.php?c=1590
+#EXTINF:-1 tvg-id="453" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Lifology.png" group-title="Educational - PinrangTV",Lifology
+https://extratvteam.site/JIO/autoq.php?c=1593
+#EXTINF:-1 tvg-id="454" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/FTV_HD.png" group-title="Lifestyle - PinrangTV",FTV HD
+https://extratvteam.site/JIO/autoq.php?c=1598
+#EXTINF:-1 tvg-id="455" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/InWild_HD.png" group-title="Infotainment - PinrangTV",InWild HD
+https://extratvteam.site/JIO/autoq.php?c=1599
+#EXTINF:-1 tvg-id="456" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ZooMoo_HD.png" group-title="Kids - PinrangTV",ZooMoo HD
+https://extratvteam.site/JIO/autoq.php?c=1601
+#EXTINF:-1 tvg-id="457" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Smithsonian_HD.png" group-title="Infotainment - PinrangTV",Smithsonian HD
+https://extratvteam.site/JIO/autoq.php?c=1602
+#EXTINF:-1 tvg-id="458" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Manav_Dharam.png" group-title="Devotional - PinrangTV",Manav Dharam
+https://extratvteam.site/JIO/autoq.php?c=1607
+#EXTINF:-1 tvg-id="459" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Medha_Secondary.png" group-title="Educational - PinrangTV",Medha Secondary
+https://extratvteam.site/JIO/autoq.php?c=1613
+#EXTINF:-1 tvg-id="460" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Omnicuris.png" group-title="Educational - PinrangTV",Omnicuris
+https://extratvteam.site/JIO/autoq.php?c=1614
+#EXTINF:-1 tvg-id="461" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/India_Ahead.png" group-title="News - PinrangTV",India Ahead
+https://extratvteam.site/JIO/autoq.php?c=1617
+#EXTINF:-1 tvg-id="462" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Madha_TV.png" group-title="Devotional - PinrangTV",Madha TV
+https://extratvteam.site/JIO/autoq.php?c=1655
+#EXTINF:-1 tvg-id="463" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Rongeen_TV.png" group-title="Kids - PinrangTV",Rongeen TV
+https://extratvteam.site/JIO/autoq.php?c=1667
+#EXTINF:-1 tvg-id="464" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Gyanvani_2.png" group-title="Educational - PinrangTV",Gyanvani 2
+https://extratvteam.site/JIO/autoq.php?c=1672
+#EXTINF:-1 tvg-id="465" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/PTD_Chhattisgarrh.png" group-title="Educational - PinrangTV",PTD Chhattisgarrh
+https://extratvteam.site/JIO/autoq.php?c=1673
+#EXTINF:-1 tvg-id="466" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ESG.png" group-title="Sports - PinrangTV",ESG TV
+https://extratvteam.site/JIO/autoq.php?c=1675
+#EXTINF:-1 tvg-id="467" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Badakhabar.png" group-title="News - PinrangTV",Badakhabar
+https://extratvteam.site/JIO/autoq.php?c=1692
+#EXTINF:-1 tvg-id="468" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/IND_24.png" group-title="News - PinrangTV",IND 24
+https://extratvteam.site/JIO/autoq.php?c=1698
+#EXTINF:-1 tvg-id="469" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Anaadi_TV.png" group-title="News - PinrangTV",Anaadi TV
+https://extratvteam.site/JIO/autoq.php?c=1728
+#EXTINF:-1 tvg-id="470" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ND24.png" group-title="News - PinrangTV",ND 24
+https://extratvteam.site/JIO/autoq.php?c=1733
+#EXTINF:-1 tvg-id="471" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/TV9_Bangla.png" group-title="News - PinrangTV",TV9 Bangla
+https://extratvteam.site/JIO/autoq.php?c=1735
+#EXTINF:-1 tvg-id="472" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Luxe_Tv_HD.png" group-title="Lifestyle - PinrangTV",LUXE TV HD
+https://extratvteam.site/JIO/autoq.php?c=1736
+#EXTINF:-1 tvg-id="473" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Mezzo_HD.png" group-title="Music - PinrangTV",Mezzo Live HD
+https://extratvteam.site/JIO/autoq.php?c=1737
+#EXTINF:-1 tvg-id="474" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Hornbill_TV.png" group-title="News - PinrangTV",Hornbill TV
+https://extratvteam.site/JIO/autoq.php?c=1743
+#EXTINF:-1 tvg-id="475" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/NK_TV.png" group-title="News - PinrangTV",NK TV Plus
+https://extratvteam.site/JIO/autoq.php?c=1757
+#EXTINF:-1 tvg-id="476" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Aryan_TV_National.png" group-title="News - PinrangTV",Aryan TV National
+https://extratvteam.site/JIO/autoq.php?c=1761
+#EXTINF:-1 tvg-id="477" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Naaptol.png" group-title="Infotainment - PinrangTV",Naaptol
+https://extratvteam.site/JIO/autoq.php?c=1768
+#EXTINF:-1 tvg-id="478" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/LWA.png" group-title="Devotional - PinrangTV",LWA
+https://extratvteam.site/JIO/autoq.php?c=1769
+#EXTINF:-1 tvg-id="479" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Vande_Tripura.png" group-title="Educational - PinrangTV",Vande Tripura
+https://extratvteam.site/JIO/autoq.php?c=1770
+#EXTINF:-1 tvg-id="480" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Express_News.png" group-title="News - PinrangTV",Express News
+https://extratvteam.site/JIO/autoq.php?c=1771
+#EXTINF:-1 tvg-id="481" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_4_HD_Tamil.png" group-title="Sports - PinrangTV",Sony Ten 4 HD Tamil
+https://extratvteam.site/JIO/autoq.php?c=1772
+#EXTINF:-1 tvg-id="482" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_4_HD_Telugu.png" group-title="Sports - PinrangTV",Sony Ten 4 HD Telugu
+https://extratvteam.site/JIO/autoq.php?c=1773
+#EXTINF:-1 tvg-id="483" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_4_Tamil.png" group-title="Sports - PinrangTV",Sony Ten 4 Tamil
+https://extratvteam.site/JIO/autoq.php?c=1774
+#EXTINF:-1 tvg-id="484" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Bharat_News.png" group-title="News - PinrangTV",Bharat News TV
+https://extratvteam.site/JIO/autoq.php?c=1777
+#EXTINF:-1 tvg-id="485" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/SamacharExpressTV.png" group-title="News - PinrangTV",Samachar Express TV
+https://extratvteam.site/JIO/autoq.php?c=1786
+#EXTINF:-1 tvg-id="486" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/VISVAS.png" group-title="Devotional - PinrangTV",VISVAS
+https://extratvteam.site/JIO/autoq.php?c=1787
+#EXTINF:-1 tvg-id="487" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Yeshuaa.png" group-title="Devotional - PinrangTV",Yeshuaa TV
+https://extratvteam.site/JIO/autoq.php?c=1788
+#EXTINF:-1 tvg-id="488" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Dada_Bhagwan_Foundation_Gujarati.png" group-title="Devotional - PinrangTV",Dada Bhagwan Foundation Gujarati
+https://extratvteam.site/JIO/autoq.php?c=1789
+#EXTINF:-1 tvg-id="489" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/VRLive.png" group-title="News - PinrangTV",VR Live
+https://extratvteam.site/JIO/autoq.php?c=1790
+#EXTINF:-1 tvg-id="490" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/KPNews.png" group-title="News - PinrangTV",KP News 24x7
+https://extratvteam.site/JIO/autoq.php?c=1791
+#EXTINF:-1 tvg-id="491" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Satta_Express.png" group-title="News - PinrangTV",Sattaxpress News
+https://extratvteam.site/JIO/autoq.php?c=1793
+#EXTINF:-1 tvg-id="492" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Mangalmaylive.png" group-title="Devotional - PinrangTV",Mangalmay Live
+https://extratvteam.site/JIO/autoq.php?c=1794
+#EXTINF:-1 tvg-id="493" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Shri_Amarnath_Shrine_Board.png" group-title="JioDarshan - PinrangTV",Shri Amarnathji Shrine Board
+https://extratvteam.site/JIO/autoq.php?c=1795
+#EXTINF:-1 tvg-id="494" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Anand_Barta.png" group-title="News - PinrangTV",Ananda Barta
+https://extratvteam.site/JIO/autoq.php?c=1796
+#EXTINF:-1 tvg-id="495" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DA_News_Plus.png" group-title="News - PinrangTV",DA News Plus
+https://extratvteam.site/JIO/autoq.php?c=1797
+#EXTINF:-1 tvg-id="496" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Pasand.png" group-title="Entertainment - PinrangTV",Pasand
+https://extratvteam.site/JIO/autoq.php?c=1798
+#EXTINF:-1 tvg-id="497" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Studio_Yuva_Alpha.png" group-title="Entertainment - PinrangTV",Studio Yuva Alpha
+https://extratvteam.site/JIO/autoq.php?c=1799
+#EXTINF:-1 tvg-id="498" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News_World_India.png" group-title="News - PinrangTV",News World India
+https://extratvteam.site/JIO/autoq.php?c=1802
+#EXTINF:-1 tvg-id="499" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jan_Setu_TV.png" group-title="News - PinrangTV",Jan Setu News
+https://extratvteam.site/JIO/autoq.php?c=1804
+#EXTINF:-1 tvg-id="500" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_5.png" group-title="Sports - PinrangTV",Jio Football 5 HD
+https://extratvteam.site/JIO/autoq.php?c=1813
+#EXTINF:-1 tvg-id="501" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_6.png" group-title="Sports - PinrangTV",Jio Football 6 HD
+https://extratvteam.site/JIO/autoq.php?c=1814
+#EXTINF:-1 tvg-id="502" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DTV_Bharat.png" group-title="News - PinrangTV",DTV Bharat
+https://extratvteam.site/JIO/autoq.php?c=1816
+#EXTINF:-1 tvg-id="503" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/NEWS_24_MPCG.png" group-title="News - PinrangTV",NEWS 24 MPCG
+https://extratvteam.site/JIO/autoq.php?c=1817
+#EXTINF:-1 tvg-id="504" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_7.png" group-title="Sports - PinrangTV",Jio Football 7 HD
+https://extratvteam.site/JIO/autoq.php?c=1823
+#EXTINF:-1 tvg-id="505" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_8.png" group-title="Sports - PinrangTV",Jio Football 8 HD
+https://extratvteam.site/JIO/autoq.php?c=1824
+#EXTINF:-1 tvg-id="506" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Swarlasika.png" group-title="Educational - PinrangTV",Swaralasika Sangeetalaya
+https://extratvteam.site/JIO/autoq.php?c=1826
+#EXTINF:-1 tvg-id="507" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Green_Chillies_TV.png" group-title="Entertainment - PinrangTV",Green Chillies
+https://extratvteam.site/JIO/autoq.php?c=1834
+#EXTINF:-1 tvg-id="508" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Devam.png" group-title="Devotional - PinrangTV",Sadhna Bhakti
+https://extratvteam.site/JIO/autoq.php?c=1838
+#EXTINF:-1 tvg-id="509" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/AAS_Vidyalaya_State_Boards.png" group-title="Educational - PinrangTV",AAS Vidyalaya State Boards
+https://extratvteam.site/JIO/autoq.php?c=1848
+#EXTINF:-1 tvg-id="510" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/India_At_Dubai_Expo.png" group-title="Infotainment - PinrangTV",India At Dubai Expo
+https://extratvteam.site/JIO/autoq.php?c=1849
+#EXTINF:-1 tvg-id="511" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_Ganga.png" group-title="News - PinrangTV",ABP Ganga
+https://extratvteam.site/JIO/autoq.php?c=1205
+#EXTINF:-1 tvg-id="512" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Kalaignar_TV.png" group-title="Entertainment - PinrangTV",Kalaignar TV
+https://extratvteam.site/JIO/autoq.php?c=1209
+#EXTINF:-1 tvg-id="513" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Kalaignar_Seithigal_.png" group-title="News - PinrangTV",Kalaignar Seithigal
+https://extratvteam.site/JIO/autoq.php?c=1210
+#EXTINF:-1 tvg-id="514" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_HD_Tamil.png" group-title="Infotainment - PinrangTV",Animal Planet HD Tamil
+https://extratvteam.site/JIO/autoq.php?c=1219
+#EXTINF:-1 tvg-id="515" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_HD_Plus.png" group-title="Kids - PinrangTV",Nick HD+
+https://extratvteam.site/JIO/autoq.php?c=1226
+#EXTINF:-1 tvg-id="516" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_Hindi_HD.png" group-title="Sports - PinrangTV",Jio Football Hindi HD
+https://extratvteam.site/JIO/autoq.php?c=1234
+#EXTINF:-1 tvg-id="517" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_Malayalam_HD.png" group-title="Sports - PinrangTV",Jio Football Malayalam HD
+https://extratvteam.site/JIO/autoq.php?c=1236
+#EXTINF:-1 tvg-id="518" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_Bangali_HD.png" group-title="Sports - PinrangTV",Jio Football Bengali HD
+https://extratvteam.site/JIO/autoq.php?c=1239
+#EXTINF:-1 tvg-id="519" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Telugu.png" group-title="Kids - PinrangTV",Sonic Telugu
+https://extratvteam.site/JIO/autoq.php?c=1242
+#EXTINF:-1 tvg-id="520" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Kannada.png" group-title="Kids - PinrangTV",Sonic Kannada
+https://extratvteam.site/JIO/autoq.php?c=1243
+#EXTINF:-1 tvg-id="521" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Kannada.png" group-title="Kids - PinrangTV",Nick Kannada
+https://extratvteam.site/JIO/autoq.php?c=1244
+#EXTINF:-1 tvg-id="522" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sakkat.png" group-title="Music - PinrangTV",Sakkat
+https://extratvteam.site/JIO/autoq.php?c=1245
+#EXTINF:-1 tvg-id="523" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Bol_Hadippa.png" group-title="Music - PinrangTV",Bol Hadippa
+https://extratvteam.site/JIO/autoq.php?c=1248
+#EXTINF:-1 tvg-id="524" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Kadak_Hits.png" group-title="Music - PinrangTV",Kadak Hits
+https://extratvteam.site/JIO/autoq.php?c=1249
+#EXTINF:-1 tvg-id="525" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/TWENTY_FOUR_NEWS.png" group-title="News - PinrangTV",Twenty Four News
+https://extratvteam.site/JIO/autoq.php?c=1250
+#EXTINF:-1 tvg-id="526" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/TV9_Bharatvarsh.png" group-title="News - PinrangTV",TV9 Bharatvarsh
+https://extratvteam.site/JIO/autoq.php?c=1251
+#EXTINF:-1 tvg-id="527" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/TEHZEEB_TV.png" group-title="Infotainment - PinrangTV",Tehzeeb TV
+https://extratvteam.site/JIO/autoq.php?c=1252
+#EXTINF:-1 tvg-id="528" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Kolkata_LIVE.png" group-title="News - PinrangTV",Kolkata Live
+https://extratvteam.site/JIO/autoq.php?c=1253
+#EXTINF:-1 tvg-id="529" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Aastha_Telugu.png" group-title="Devotional - PinrangTV",Aastha Telugu
+https://extratvteam.site/JIO/autoq.php?c=1254
+#EXTINF:-1 tvg-id="530" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Aastha_Tamil.png" group-title="Devotional - PinrangTV",Aastha Tamil
+https://extratvteam.site/JIO/autoq.php?c=1255
+#EXTINF:-1 tvg-id="531" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Aastha_Kannada.png" group-title="Devotional - PinrangTV",Aastha Kannada
+https://extratvteam.site/JIO/autoq.php?c=1256
+#EXTINF:-1 tvg-id="532" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CTVN_AKD_Plus.png" group-title="News - PinrangTV",Ctvn Akd Plus
+https://extratvteam.site/JIO/autoq.php?c=1260
+#EXTINF:-1 tvg-id="533" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Calcutta_News.png" group-title="News - PinrangTV",Calcutta News
+https://extratvteam.site/JIO/autoq.php?c=1261
+#EXTINF:-1 tvg-id="534" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Total_Tv_Haryana.png" group-title="News - PinrangTV",Total Tv Haryana
+https://extratvteam.site/JIO/autoq.php?c=1263
+#EXTINF:-1 tvg-id="535" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Kolkata_TV.png" group-title="News - PinrangTV",Kolkata TV
+https://extratvteam.site/JIO/autoq.php?c=1264
+#EXTINF:-1 tvg-id="536" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Bflix_Movies.png" group-title="Movies - PinrangTV",Bflix Movies
+https://extratvteam.site/JIO/autoq.php?c=1266
+#EXTINF:-1 tvg-id="537" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/iLove.png" group-title="Music - PinrangTV",iLove
+https://extratvteam.site/JIO/autoq.php?c=1267
+#EXTINF:-1 tvg-id="538" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Studio_One.png" group-title="News - PinrangTV",Studio One
+https://extratvteam.site/JIO/autoq.php?c=1274
+#EXTINF:-1 tvg-id="539" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nireekshana_TV.png" group-title="Devotional - PinrangTV",Nireekshana TV
+https://extratvteam.site/JIO/autoq.php?c=1277
+#EXTINF:-1 tvg-id="540" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Prarthana_Bhawan.png" group-title="Devotional - PinrangTV",Prarthana Bhawan
+https://extratvteam.site/JIO/autoq.php?c=1278
+#EXTINF:-1 tvg-id="541" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Manoranjan_Grand.png" group-title="Entertainment - PinrangTV",Manoranjan Grand
+https://extratvteam.site/JIO/autoq.php?c=1279
+#EXTINF:-1 tvg-id="542" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Manoranjan_TV.png" group-title="Movies - PinrangTV",Manoranjan TV
+https://extratvteam.site/JIO/autoq.php?c=1280
+#EXTINF:-1 tvg-id="543" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Manoranjan_Movies.png" group-title="Movies - PinrangTV",Manoranjan Movies
+https://extratvteam.site/JIO/autoq.php?c=1281
+#EXTINF:-1 tvg-id="544" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Khusboo_TV.png" group-title="Movies - PinrangTV",Khushboo TV
+https://extratvteam.site/JIO/autoq.php?c=1282
+#EXTINF:-1 tvg-id="545" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Insync.png" group-title="Music - PinrangTV",Insync
+https://extratvteam.site/JIO/autoq.php?c=1286
+#EXTINF:-1 tvg-id="546" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ANB_News.png" group-title="News - PinrangTV",ANB News
+https://extratvteam.site/JIO/autoq.php?c=1287
+#EXTINF:-1 tvg-id="547" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_Sanjha.png" group-title="News - PinrangTV",ABP Sanjha
+https://extratvteam.site/JIO/autoq.php?c=1291
+#EXTINF:-1 tvg-id="548" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Lokshahi_News.png" group-title="News - PinrangTV",Lokshahi News
+https://extratvteam.site/JIO/autoq.php?c=1293
+#EXTINF:-1 tvg-id="549" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Dsports.png" group-title="Sports - PinrangTV",Eurosport
+https://extratvteam.site/JIO/autoq.php?c=1294
+#EXTINF:-1 tvg-id="550" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Kadak.png" group-title="Movies - PinrangTV",B4U Kadak
+https://extratvteam.site/JIO/autoq.php?c=1295
+#EXTINF:-1 tvg-id="551" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Bhojpuri.png" group-title="Movies - PinrangTV",B4U Bhojpuri
+https://extratvteam.site/JIO/autoq.php?c=1296
+#EXTINF:-1 tvg-id="552" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Manjari_TV.png" group-title="Entertainment - PinrangTV",Manjari TV
+https://extratvteam.site/JIO/autoq.php?c=1299
+#EXTINF:-1 tvg-id="553" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/HHDL.png" group-title="Devotional - PinrangTV",HHDL
+https://extratvteam.site/JIO/autoq.php?c=1315
+#EXTINF:-1 tvg-id="554" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/VH1_HD.png" group-title="Music - PinrangTV",VH1 HD
+https://extratvteam.site/JIO/autoq.php?c=1320
+#EXTINF:-1 tvg-id="555" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Infinity_SD.png" group-title="Entertainment - PinrangTV",Colors Infinity SD
+https://extratvteam.site/JIO/autoq.php?c=1325
+#EXTINF:-1 tvg-id="556" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Comedy_Central_SD.png" group-title="Entertainment - PinrangTV",Comedy Central SD
+https://extratvteam.site/JIO/autoq.php?c=1327
+#EXTINF:-1 tvg-id="557" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/RT_TV.png" group-title="News - PinrangTV",RT TV
+https://extratvteam.site/JIO/autoq.php?c=1338
+#EXTINF:-1 tvg-id="558" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV.png" group-title="Entertainment - PinrangTV",Zee TV
+https://extratvteam.site/JIO/autoq.php?c=1351
+#EXTINF:-1 tvg-id="559" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Talkies_HD.png" group-title="Movies - PinrangTV",Zee Talkies HD
+https://extratvteam.site/JIO/autoq.php?c=1358
+#EXTINF:-1 tvg-id="560" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Marathi_HD.png" group-title="Entertainment - PinrangTV",Zee Marathi HD
+https://extratvteam.site/JIO/autoq.php?c=1360
+#EXTINF:-1 tvg-id="561" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Tamil.png" group-title="Entertainment - PinrangTV",Colors Tamil
+https://extratvteam.site/JIO/autoq.php?c=1371
+#EXTINF:-1 tvg-id="562" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Wah.png" group-title="Entertainment - PinrangTV",Sony Wah
+https://extratvteam.site/JIO/autoq.php?c=1393
+#EXTINF:-1 tvg-id="563" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SD.png" group-title="Entertainment - PinrangTV",Set SD
+https://extratvteam.site/JIO/autoq.php?c=1396
+#EXTINF:-1 tvg-id="564" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/NHK_World_Japan.png" group-title="News - PinrangTV",NHK World Japan
+https://extratvteam.site/JIO/autoq.php?c=1405
+#EXTINF:-1 tvg-id="565" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Reporter_TV.png" group-title="News - PinrangTV",Reporter TV
+https://extratvteam.site/JIO/autoq.php?c=1408
+#EXTINF:-1 tvg-id="566" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/SongDew_TV.png" group-title="Music - PinrangTV",SongDew TV
+https://extratvteam.site/JIO/autoq.php?c=1411
+#EXTINF:-1 tvg-id="567" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/1Sports.png" group-title="Sports - PinrangTV",1Sports
+https://extratvteam.site/JIO/autoq.php?c=1425
+#EXTINF:-1 tvg-id="568" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Santvani.png" group-title="Devotional - PinrangTV",Santvani
+https://extratvteam.site/JIO/autoq.php?c=1426
+#EXTINF:-1 tvg-id="569" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nandighosha.png" group-title="News - PinrangTV",Nandighosha
+https://extratvteam.site/JIO/autoq.php?c=1427
+#EXTINF:-1 tvg-id="570" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_KIDS.png" group-title="Kids - PinrangTV",Jio KIDS
+https://extratvteam.site/JIO/autoq.php?c=1430
+#EXTINF:-1 tvg-id="571" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Velukkudi_Discourses.png" group-title="Devotional - PinrangTV",Velukkudi Discourses
+https://extratvteam.site/JIO/autoq.php?c=1438
+#EXTINF:-1 tvg-id="572" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Rishtey_Cineplex.png" group-title="Movies - PinrangTV",Colors Cineplex Superhit
+https://extratvteam.site/JIO/autoq.php?c=1450
+#EXTINF:-1 tvg-id="573" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Shemaroo_MarathiBana.png" group-title="Movies - PinrangTV",Shemaroo MarathiBana
+https://extratvteam.site/JIO/autoq.php?c=1452
+#EXTINF:-1 tvg-id="574" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Balle_Balle_TV.png" group-title="Music - PinrangTV",Balle Balle TV
+https://extratvteam.site/JIO/autoq.php?c=1453
+#EXTINF:-1 tvg-id="575" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Shiksha_TV.png" group-title="Devotional - PinrangTV",Shiksha TV
+https://extratvteam.site/JIO/autoq.php?c=1454
+#EXTINF:-1 tvg-id="576" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Janapriyam_News.png" group-title="Infotainment - PinrangTV",Janapriyam
+https://extratvteam.site/JIO/autoq.php?c=1455
+#EXTINF:-1 tvg-id="577" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Moti_Doongri.png" group-title="JioDarshan - PinrangTV",Shree Ganesh - Moti Doongri Jaipur
+https://extratvteam.site/JIO/autoq.php?c=1463
+#EXTINF:-1 tvg-id="578" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Daijiworld_TV_24X7.png" group-title="Infotainment - PinrangTV",Daijiworld TV 24x7
+https://extratvteam.site/JIO/autoq.php?c=1464
+#EXTINF:-1 tvg-id="579" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/History_TV18_SD.png" group-title="Infotainment - PinrangTV",History TV18 SD
+https://extratvteam.site/JIO/autoq.php?c=1471
+#EXTINF:-1 tvg-id="580" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Color_Cineplex_HD.png" group-title="Movies - PinrangTV",Colors Cineplex HD
+https://extratvteam.site/JIO/autoq.php?c=1477
+#EXTINF:-1 tvg-id="581" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News_J.png" group-title="News - PinrangTV",News J
+https://extratvteam.site/JIO/autoq.php?c=1515
+#EXTINF:-1 tvg-id="582" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Network_10.png" group-title="News - PinrangTV",Network 10
+https://extratvteam.site/JIO/autoq.php?c=1528
+#EXTINF:-1 tvg-id="583" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_SD.png" group-title="Movies - PinrangTV",Sony Pix SD
+https://extratvteam.site/JIO/autoq.php?c=1530
+#EXTINF:-1 tvg-id="584" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/RadheKrishna_TV.png" group-title="Devotional - PinrangTV",RadheKrishna TV
+https://extratvteam.site/JIO/autoq.php?c=1537
+#EXTINF:-1 tvg-id="585" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Subharti.png" group-title="Devotional - PinrangTV",Subharti
+https://extratvteam.site/JIO/autoq.php?c=1543
+#EXTINF:-1 tvg-id="586" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News_First.png" group-title="News - PinrangTV",News First
+https://extratvteam.site/JIO/autoq.php?c=1555
+#EXTINF:-1 tvg-id="587" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MY_ZEN_HD.png" group-title="Lifestyle - PinrangTV",MY ZEN HD
+https://extratvteam.site/JIO/autoq.php?c=1596
+#EXTINF:-1 tvg-id="588" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/HitsIndia_HD.png" group-title="Entertainment - PinrangTV",HITS HD
+https://extratvteam.site/JIO/autoq.php?c=1603
+#EXTINF:-1 tvg-id="589" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Kannada_Cinema.png" group-title="Movies - PinrangTV",Colors Kannada Cinema
+https://extratvteam.site/JIO/autoq.php?c=1632
+#EXTINF:-1 tvg-id="590" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sirikannada.png" group-title="Entertainment - PinrangTV",Siri Kannada
+https://extratvteam.site/JIO/autoq.php?c=1634
+#EXTINF:-1 tvg-id="591" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bangla_Cinema.png" group-title="Movies - PinrangTV",Colors Bangla Cinema
+https://extratvteam.site/JIO/autoq.php?c=1657
+#EXTINF:-1 tvg-id="592" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Surya_Comedy.png" group-title="Entertainment - PinrangTV",Surya Comedy
+https://extratvteam.site/JIO/autoq.php?c=1662
+#EXTINF:-1 tvg-id="593" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_Bangla.png" group-title="Entertainment - PinrangTV",Sun Bangla
+https://extratvteam.site/JIO/autoq.php?c=1669
+#EXTINF:-1 tvg-id="594" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/India_News_Gujarat.png" group-title="News - PinrangTV",India News Gujarat
+https://extratvteam.site/JIO/autoq.php?c=1747
+#EXTINF:-1 tvg-id="595" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Surya_Movies.png" group-title="Movies - PinrangTV",Surya Movies
+https://extratvteam.site/JIO/autoq.php?c=1754
+#EXTINF:-1 tvg-id="596" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex_Bollywood.png" group-title="Movies - PinrangTV",Colors Cineplex Bollywood
+https://extratvteam.site/JIO/autoq.php?c=1763
+#EXTINF:-1 tvg-id="597" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_4_Telugu.png" group-title="Sports - PinrangTV",Sony Ten 4 Telugu
+https://extratvteam.site/JIO/autoq.php?c=1775
+#EXTINF:-1 tvg-id="598" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Hoopla_Kids_TV.png" group-title="Kids - PinrangTV",Hoopla Kidz TV
+https://extratvteam.site/JIO/autoq.php?c=1780
+#EXTINF:-1 tvg-id="599" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Aakash_EduTV_NEET.png" group-title="Educational - PinrangTV",Aakash EduTV NEET
+https://extratvteam.site/JIO/autoq.php?c=1827
+#EXTINF:-1 tvg-id="600" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/And_Pictures.png" group-title="Movies - PinrangTV",And Pictures
+https://extratvteam.site/JIO/autoq.php?c=1839
+#EXTINF:-1 tvg-id="601" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Harpal_TV.png" group-title="Devotional - PinrangTV",Z10 TV
+https://extratvteam.site/JIO/autoq.php?c=1847
+#EXTINF:-1 tvg-id="602" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Aakash_EduTV_JEE.png" group-title="Educational - PinrangTV",Aakash EduTV JEE
+https://extratvteam.site/JIO/autoq.php?c=1851
+#EXTINF:-1 tvg-id="603" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News11_Bharat.png" group-title="News - PinrangTV",News11 Bharat
+https://extratvteam.site/JIO/autoq.php?c=1853
+#EXTINF:-1 tvg-id="604" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/STV_Haryana_News.png" group-title="News - PinrangTV",STV Haryana News
+https://extratvteam.site/JIO/autoq.php?c=1854
+#EXTINF:-1 tvg-id="605" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/NL_TV.png" group-title="News - PinrangTV",NL TV
+https://extratvteam.site/JIO/autoq.php?c=1855
+#EXTINF:-1 tvg-id="606" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News_Time_Assam.png" group-title="News - PinrangTV",Pratham Khabar 24x7
+https://extratvteam.site/JIO/autoq.php?c=1856
+#EXTINF:-1 tvg-id="607" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/SVBC3.png" group-title="Devotional - PinrangTV",SVBC3
+https://extratvteam.site/JIO/autoq.php?c=1858
+#EXTINF:-1 tvg-id="608" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/SVBC4.png" group-title="Devotional - PinrangTV",SVBC4
+https://extratvteam.site/JIO/autoq.php?c=1859
+#EXTINF:-1 tvg-id="609" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Punjab_Plus.png" group-title="Entertainment - PinrangTV",Punjab Plus
+https://extratvteam.site/JIO/autoq.php?c=1868
+#EXTINF:-1 tvg-id="610" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Kenson_News.png" group-title="News - PinrangTV",Kenson News
+https://extratvteam.site/JIO/autoq.php?c=1869
+#EXTINF:-1 tvg-id="611" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/7X_Music.png" group-title="Music - PinrangTV",7X Music
+https://extratvteam.site/JIO/autoq.php?c=1871
+#EXTINF:-1 tvg-id="612" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Dreamworks.png" group-title="Kids - PinrangTV",DreamWorks
+https://extratvteam.site/JIO/autoq.php?c=1872
+#EXTINF:-1 tvg-id="613" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/E_NBCU.png" group-title="Entertainment - PinrangTV",E!
+https://extratvteam.site/JIO/autoq.php?c=1881
+#EXTINF:-1 tvg-id="614" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Telugu.png" group-title="Kids - PinrangTV",Pogo Telugu
+https://extratvteam.site/JIO/autoq.php?c=1883
+#EXTINF:-1 tvg-id="615" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Kripa_TV.png" group-title="Devotional - PinrangTV",Kripa TV
+https://extratvteam.site/JIO/autoq.php?c=1885
+#EXTINF:-1 tvg-id="616" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sansad_TV_RajyaSabha.png" group-title="News - PinrangTV",Sansad TV Rajya Sabha
+https://extratvteam.site/JIO/autoq.php?c=1886
+#EXTINF:-1 tvg-id="617" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jivan_TV.png" group-title="Devotional - PinrangTV",Jivan TV
+https://extratvteam.site/JIO/autoq.php?c=1888
+#EXTINF:-1 tvg-id="618" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Sports_1_HD.png" group-title="Sports - PinrangTV",Jio Sports 1 HD
+https://extratvteam.site/JIO/autoq.php?c=1889
+#EXTINF:-1 tvg-id="619" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Sports_2_HD.png" group-title="Sports - PinrangTV",Jio Sports 2 HD
+https://extratvteam.site/JIO/autoq.php?c=1890
+#EXTINF:-1 tvg-id="620" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Tribe_TV.png" group-title="News - PinrangTV",Tribe TV
+https://extratvteam.site/JIO/autoq.php?c=1891
+#EXTINF:-1 tvg-id="621" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Padhega_Bharat.png" group-title="Educational - PinrangTV",Padhega Bharat
+https://extratvteam.site/JIO/autoq.php?c=1894
+#EXTINF:-1 tvg-id="622" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Today_24_News.png" group-title="News - PinrangTV",Today 24 News
+https://extratvteam.site/JIO/autoq.php?c=1895
+#EXTINF:-1 tvg-id="623" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News_Flash.png" group-title="News - PinrangTV",News Flash
+https://extratvteam.site/JIO/autoq.php?c=1896
+#EXTINF:-1 tvg-id="624" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Pulse_24.png" group-title="News - PinrangTV",Pulse 24
+https://extratvteam.site/JIO/autoq.php?c=1897
+#EXTINF:-1 tvg-id="625" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/GBN24.png" group-title="News - PinrangTV",GBN24
+https://extratvteam.site/JIO/autoq.php?c=1898
+#EXTINF:-1 tvg-id="626" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/VK_News.png" group-title="News - PinrangTV",VK News
+https://extratvteam.site/JIO/autoq.php?c=1899
+#EXTINF:-1 tvg-id="627" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ENB.png" group-title="News - PinrangTV",Express News Bharat
+https://extratvteam.site/JIO/autoq.php?c=1900
+#EXTINF:-1 tvg-id="628" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Adhyatam_TV.png" group-title="Devotional - PinrangTV",Adhyatam TV
+https://extratvteam.site/JIO/autoq.php?c=1901
+#EXTINF:-1 tvg-id="629" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Aaj_Ki_Baat.png" group-title="News - PinrangTV",Aaj Ki Baat Gujarati
+https://extratvteam.site/JIO/autoq.php?c=1903
+#EXTINF:-1 tvg-id="630" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Namasthe_TV.png" group-title="Devotional - PinrangTV",Namasthe TV
+https://extratvteam.site/JIO/autoq.php?c=1919
+#EXTINF:-1 tvg-id="631" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MH1_DilSe.png" group-title="Entertainment - PinrangTV",MH1 Dil Se
+https://extratvteam.site/JIO/autoq.php?c=1925
+#EXTINF:-1 tvg-id="632" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sanskriti_24x7.png" group-title="Devotional - PinrangTV",Sanskriti 24x7
+https://extratvteam.site/JIO/autoq.php?c=1926
+#EXTINF:-1 tvg-id="633" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Shri_Trimbakeshwar_Devasthan.png" group-title="JioDarshan - PinrangTV",Shri Trimbakeshwar Devasthan Trust
+https://extratvteam.site/JIO/autoq.php?c=1933
+#EXTINF:-1 tvg-id="634" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News_Tamil_24x7.png" group-title="News - PinrangTV",News Tamil 24x7
+https://extratvteam.site/JIO/autoq.php?c=1954
+#EXTINF:-1 tvg-id="635" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Food_XP.png" group-title="Lifestyle - PinrangTV",Foodxp
+https://extratvteam.site/JIO/autoq.php?c=1955
+#EXTINF:-1 tvg-id="636" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sidharth_TV.png" group-title="Entertainment - PinrangTV",Sidharth TV
+https://extratvteam.site/JIO/autoq.php?c=1956
+#EXTINF:-1 tvg-id="637" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sidharth_Gold.png" group-title="Movies - PinrangTV",Sidharth Gold
+https://extratvteam.site/JIO/autoq.php?c=1957
+#EXTINF:-1 tvg-id="638" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sidharth_Bhakti.png" group-title="Devotional - PinrangTV",Sidharth Bhakti
+https://extratvteam.site/JIO/autoq.php?c=1958
+#EXTINF:-1 tvg-id="639" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Global_India.png" group-title="News - PinrangTV",Global India
+https://extratvteam.site/JIO/autoq.php?c=1959
+#EXTINF:-1 tvg-id="640" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Bhaarat_Today.png" group-title="News - PinrangTV",Bhaarat Today
+https://extratvteam.site/JIO/autoq.php?c=1960
+#EXTINF:-1 tvg-id="641" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Shemaroo_TV.png" group-title="Entertainment - PinrangTV",Shemaroo TV
+https://extratvteam.site/JIO/autoq.php?c=1961
+#EXTINF:-1 tvg-id="642" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Amaar_Bangla.png" group-title="News - PinrangTV",Amaar Bangla
+https://extratvteam.site/JIO/autoq.php?c=1962
+#EXTINF:-1 tvg-id="643" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/KVP_Bhaarat.png" group-title="News - PinrangTV",KVP Bhaarat
+https://extratvteam.site/JIO/autoq.php?c=1963
+#EXTINF:-1 tvg-id="644" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ABC_News.png" group-title="News - PinrangTV",ABC News
+https://extratvteam.site/JIO/autoq.php?c=1964
+#EXTINF:-1 tvg-id="645" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/VNM_News.png" group-title="News - PinrangTV",VNM TV
+https://extratvteam.site/JIO/autoq.php?c=1965
+#EXTINF:-1 tvg-id="646" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Live_TV_Kerala.png" group-title="News - PinrangTV",Live TV Kerala
+https://extratvteam.site/JIO/autoq.php?c=1966
+#EXTINF:-1 tvg-id="647" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/PMC_Hindi.png" group-title="Devotional - PinrangTV",PMC Hindi
+https://extratvteam.site/JIO/autoq.php?c=1967
+#EXTINF:-1 tvg-id="648" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/PMC_Kannada.png" group-title="Devotional - PinrangTV",PMC Kannada
+https://extratvteam.site/JIO/autoq.php?c=1968
+#EXTINF:-1 tvg-id="649" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/PMC_Tamizh.png" group-title="Devotional - PinrangTV",PMC Tamizh
+https://extratvteam.site/JIO/autoq.php?c=1969
+#EXTINF:-1 tvg-id="650" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Sports_3_HD.png" group-title="Sports - PinrangTV",Jio Sports 3 HD
+https://extratvteam.site/JIO/autoq.php?c=1970
+#EXTINF:-1 tvg-id="651" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Sports_4_HD.png" group-title="Sports - PinrangTV",Jio Sports 4 HD
+https://extratvteam.site/JIO/autoq.php?c=1971
+#EXTINF:-1 tvg-id="652" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Top_News_Marathi.png" group-title="News - PinrangTV",Top News Marathi
+https://extratvteam.site/JIO/autoq.php?c=1972
+#EXTINF:-1 tvg-id="653" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_HD.png" group-title="Entertainment - PinrangTV",ETV HD
+https://extratvteam.site/JIO/autoq.php?c=1973
+#EXTINF:-1 tvg-id="654" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Gujarat_First_24x7.png" group-title="News - PinrangTV",Gujarat 1st 24x7
+https://extratvteam.site/JIO/autoq.php?c=1974
+#EXTINF:-1 tvg-id="655" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/PMC_Telugu.png" group-title="Devotional - PinrangTV",PMC Telugu
+https://extratvteam.site/JIO/autoq.php?c=1975
+#EXTINF:-1 tvg-id="656" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/BBC_Cbeebies.png" group-title="Kids - PinrangTV",BBC Cbeebies
+https://extratvteam.site/JIO/autoq.php?c=1976
+#EXTINF:-1 tvg-id="657" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Bangla_HD.png" group-title="Entertainment - PinrangTV",Zee Bangla HD
+https://extratvteam.site/JIO/autoq.php?c=1977
+#EXTINF:-1 tvg-id="658" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sports18_1_HD.png" group-title="Sports - PinrangTV",Sports18 1 HD
+https://extratvteam.site/JIO/autoq.php?c=1984
+#EXTINF:-1 tvg-id="659" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sports18_1_SD.png" group-title="Sports - PinrangTV",Sports18 1
+https://extratvteam.site/JIO/autoq.php?c=1985
+#EXTINF:-1 tvg-id="660" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sports18_Khel.png" group-title="Sports - PinrangTV",Sports18 Khel
+https://extratvteam.site/JIO/autoq.php?c=1998
+#EXTINF:-1 tvg-id="661" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Raftaar_Media.png" group-title="News - PinrangTV",Raftaar Media
+https://extratvteam.site/JIO/autoq.php?c=1999
+#EXTINF:-1 tvg-id="662" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/" group-title="Devotional - PinrangTV",Aadinath TV
+https://extratvteam.site/JIO/autoq.php?c=2002
+#EXTINF:-1 tvg-id="663" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Crypto_TV.0-TV" group-title="Educational - PinrangTV",3.0 TV
+https://extratvteam.site/JIO/autoq.php?c=2003
+#EXTINF:-1 tvg-id="664" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Shekinah.png" group-title="News - PinrangTV",Shekinah TV
+https://extratvteam.site/JIO/autoq.php?c=2004
+#EXTINF:-1 tvg-id="665" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Virat_24.png" group-title="News - PinrangTV",Virat 24
+https://extratvteam.site/JIO/autoq.php?c=2005
+#EXTINF:-1 tvg-id="666" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sattva_TV.png" group-title="Devotional - PinrangTV",Sattva TV
+https://extratvteam.site/JIO/autoq.php?c=2006
+#EXTINF:-1 tvg-id="667" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/BS9_News.png" group-title="News - PinrangTV",BS9 News
+https://extratvteam.site/JIO/autoq.php?c=2007
+#EXTINF:-1 tvg-id="668" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News_21.png" group-title="News - PinrangTV",News 21
+https://extratvteam.site/JIO/autoq.php?c=2008
+#EXTINF:-1 tvg-id="669" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ekamra_Nilach_akra.png" group-title="Entertainment - PinrangTV",Ekamra Nilach akra
+https://extratvteam.site/JIO/autoq.php?c=2010
+#EXTINF:-1 tvg-id="670" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ekamra_Bharat_Odia.png" group-title="Infotainment - PinrangTV",Ekamra Bharat Odia
+https://extratvteam.site/JIO/autoq.php?c=2011
+#EXTINF:-1 tvg-id="671" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Paramatma.png" group-title="Devotional - PinrangTV",Paramatma
+https://extratvteam.site/JIO/autoq.php?c=2012
+#EXTINF:-1 tvg-id="672" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ekamra_S_News.png" group-title="News - PinrangTV",Ekamra S News
+https://extratvteam.site/JIO/autoq.php?c=2013
+#EXTINF:-1 tvg-id="673" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Rajpath_TV.png" group-title="News - PinrangTV",Rajpath TV
+https://extratvteam.site/JIO/autoq.php?c=2014
+#EXTINF:-1 tvg-id="674" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ekamra_Music.png" group-title="Music - PinrangTV",Ekamra Musiq
+https://extratvteam.site/JIO/autoq.php?c=2015
+#EXTINF:-1 tvg-id="675" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ekamra_Cinema.png" group-title="Movies - PinrangTV",Ekamra Cinema
+https://extratvteam.site/JIO/autoq.php?c=2016
+#EXTINF:-1 tvg-id="676" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Munsif_TV.png" group-title="News - PinrangTV",Munsif TV
+https://extratvteam.site/JIO/autoq.php?c=2017
+#EXTINF:-1 tvg-id="677" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Samachar_Nation.png" group-title="News - PinrangTV",Samachar Nation
+https://extratvteam.site/JIO/autoq.php?c=2018
+#EXTINF:-1 tvg-id="678" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Global_Punjab.png" group-title="News - PinrangTV",Global Punjab
+https://extratvteam.site/JIO/autoq.php?c=2019
+#EXTINF:-1 tvg-id="679" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/KKD_News.png" group-title="News - PinrangTV",KKD News
+https://extratvteam.site/JIO/autoq.php?c=2020
+#EXTINF:-1 tvg-id="680" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/HNN24x7.png" group-title="News - PinrangTV",HNN 24x7
+https://extratvteam.site/JIO/autoq.php?c=2021
+#EXTINF:-1 tvg-id="681" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/NB_News.png" group-title="News - PinrangTV",NB News
+https://extratvteam.site/JIO/autoq.php?c=2022
+#EXTINF:-1 tvg-id="682" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/And_TV.png" group-title="Entertainment - PinrangTV",And TV
+https://extratvteam.site/JIO/autoq.php?c=2024
+#EXTINF:-1 tvg-id="683" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Raatdin_News_Network.png" group-title="News - PinrangTV",Raatdin News Network
+https://extratvteam.site/JIO/autoq.php?c=2027
+#EXTINF:-1 tvg-id="684" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sadvidya_TV.png" group-title="Devotional - PinrangTV",Sadvidya TV
+https://extratvteam.site/JIO/autoq.php?c=2028
+#EXTINF:-1 tvg-id="685" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Aaryaa_Bhakti.png" group-title="Devotional - PinrangTV",Aaryaa Bhakti
+https://extratvteam.site/JIO/autoq.php?c=2029
+#EXTINF:-1 tvg-id="686" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Aaryaa_News.png" group-title="News - PinrangTV",Aaryaa News
+https://extratvteam.site/JIO/autoq.php?c=2030
+#EXTINF:-1 tvg-id="687" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Fashion_India.png" group-title="Lifestyle - PinrangTV",Fashion India
+https://extratvteam.site/JIO/autoq.php?c=2031
+#EXTINF:-1 tvg-id="688" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/NSDC_TV.png" group-title="Educational - PinrangTV",NSDC TV
+https://extratvteam.site/JIO/autoq.php?c=2034
+#EXTINF:-1 tvg-id="689" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Amritwani.png" group-title="Devotional - PinrangTV",Amritwani
+https://extratvteam.site/JIO/autoq.php?c=2035
+#EXTINF:-1 tvg-id="690" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Dil_Se.png" group-title="Music - PinrangTV",Dil Se
+https://extratvteam.site/JIO/autoq.php?c=2036
+#EXTINF:-1 tvg-id="691" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Pop_Pataka.png" group-title="Music - PinrangTV",Pop Pataka
+https://extratvteam.site/JIO/autoq.php?c=2037
+#EXTINF:-1 tvg-id="692" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Dhamaal.png" group-title="Music - PinrangTV",Dhamaal
+https://extratvteam.site/JIO/autoq.php?c=2038
+#EXTINF:-1 tvg-id="693" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Adipolli.png" group-title="Music - PinrangTV",Adipolli
+https://extratvteam.site/JIO/autoq.php?c=2039
+#EXTINF:-1 tvg-id="694" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Bollywood_Hungama.png" group-title="Entertainment - PinrangTV",Bollywood Hungama
+https://extratvteam.site/JIO/autoq.php?c=2040
+#EXTINF:-1 tvg-id="695" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Bhakti_Sagar.png" group-title="Devotional - PinrangTV",Bhakti Sagar
+https://extratvteam.site/JIO/autoq.php?c=2041
+#EXTINF:-1 tvg-id="696" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nazraana.png" group-title="Music - PinrangTV",Nazraana
+https://extratvteam.site/JIO/autoq.php?c=2042
+#EXTINF:-1 tvg-id="697" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Artist_Aloud.png" group-title="Music - PinrangTV",Artist Aloud
+https://extratvteam.site/JIO/autoq.php?c=2043
+#EXTINF:-1 tvg-id="698" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Auroville_TV.png" group-title="Devotional - PinrangTV",Auroville TV
+https://extratvteam.site/JIO/autoq.php?c=2045
+#EXTINF:-1 tvg-id="699" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/RS_Bharat.png" group-title="Music - PinrangTV",RS Bharat
+https://extratvteam.site/JIO/autoq.php?c=2063
+#EXTINF:-1 tvg-id="700" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Merchant_Records.png" group-title="Music - PinrangTV",Merchant Records
+https://extratvteam.site/JIO/autoq.php?c=2064
+#EXTINF:-1 tvg-id="701" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/The_Q_Comedistaan.png" group-title="Entertainment - PinrangTV",The Q Comedistaan
+https://extratvteam.site/JIO/autoq.php?c=2066
+#EXTINF:-1 tvg-id="702" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/The_Q_Marathi.png" group-title="Entertainment - PinrangTV",The Q Marathi
+https://extratvteam.site/JIO/autoq.php?c=2071
+#EXTINF:-1 tvg-id="703" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Prime_Media.png" group-title="News - PinrangTV",Prime Media Goa
+https://extratvteam.site/JIO/autoq.php?c=2074
+#EXTINF:-1 tvg-id="704" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Gangaur.png" group-title="Entertainment - PinrangTV",Gangaur
+https://extratvteam.site/JIO/autoq.php?c=2077
+#EXTINF:-1 tvg-id="705" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Shemaroo_Umang.png" group-title="Entertainment - PinrangTV",Shemaroo Umang
+https://extratvteam.site/JIO/autoq.php?c=2078
+#EXTINF:-1 tvg-id="706" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Bharat_24.png" group-title="News - PinrangTV",Bharat 24
+https://extratvteam.site/JIO/autoq.php?c=2079
+#EXTINF:-1 tvg-id="707" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News_Bartaman_24x7.png" group-title="News - PinrangTV",News Bartaman 24x7
+https://extratvteam.site/JIO/autoq.php?c=2080
+#EXTINF:-1 tvg-id="708" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/TV27_News.png" group-title="News - PinrangTV",TV27 News
+https://extratvteam.site/JIO/autoq.php?c=2081
+#EXTINF:-1 tvg-id="709" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/22Scope_News.png" group-title="News - PinrangTV",22Scope News
+https://extratvteam.site/JIO/autoq.php?c=2082
+#EXTINF:-1 tvg-id="710" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Prime_HD.png" group-title="Entertainment - PinrangTV",Jio Prime HD
+https://extratvteam.site/JIO/autoq.php?c=2149
+#EXTINF:-1 tvg-id="711" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/India24x7.png" group-title="News - PinrangTV",India 24x7
+https://extratvteam.site/JIO/autoq.php?c=2176
+#EXTINF:-1 tvg-id="712" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Arya_Sandesh_Tv.png" group-title="Devotional - PinrangTV",Arya Sandesh TV
+https://extratvteam.site/JIO/autoq.php?c=2177
+#EXTINF:-1 tvg-id="713" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Q_GameX.png" group-title="Sports - PinrangTV",Q GameX
+https://extratvteam.site/JIO/autoq.php?c=2183
+#EXTINF:-1 tvg-id="714" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/U_Bangla.png" group-title="Infotainment - PinrangTV",U Bangla
+https://extratvteam.site/JIO/autoq.php?c=2184
+#EXTINF:-1 tvg-id="715" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Swatantra_News.png" group-title="News - PinrangTV",Swatantra News
+https://extratvteam.site/JIO/autoq.php?c=2187
+#EXTINF:-1 tvg-id="716" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Globe_TV.png" group-title="News - PinrangTV",Globe TV
+https://extratvteam.site/JIO/autoq.php?c=2188
+#EXTINF:-1 tvg-id="717" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Aaryaa_Cinema.png" group-title="Movies - PinrangTV",Aaryaa Cinema
+https://extratvteam.site/JIO/autoq.php?c=2189
+#EXTINF:-1 tvg-id="718" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Atrangii_TV.png" group-title="Entertainment - PinrangTV",Atrangii TV
+https://extratvteam.site/JIO/autoq.php?c=2191
+#EXTINF:-1 tvg-id="719" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Gurukul_Rajkot.png" group-title="Devotional - PinrangTV",Gurukul
+https://extratvteam.site/JIO/autoq.php?c=2192
+#EXTINF:-1 tvg-id="720" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Guruvayur_Devaswom.png" group-title="JioDarshan - PinrangTV",Guruvayur Devaswom
+https://extratvteam.site/JIO/autoq.php?c=2205
+#EXTINF:-1 tvg-id="721" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/India_News_Punjab.png" group-title="News - PinrangTV",India News Punjab
+https://extratvteam.site/JIO/autoq.php?c=2224
+#EXTINF:-1 tvg-id="722" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/TV24.png" group-title="News - PinrangTV",TV24
+https://extratvteam.site/JIO/autoq.php?c=2225
+#EXTINF:-1 tvg-id="723" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jatra_Ekamra.png" group-title="Entertainment - PinrangTV",Jatra Ekamra
+https://extratvteam.site/JIO/autoq.php?c=2227
+#EXTINF:-1 tvg-id="724" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Samay_Kolkata.png" group-title="News - PinrangTV",Samay Kolkata
+https://extratvteam.site/JIO/autoq.php?c=2228
+#EXTINF:-1 tvg-id="725" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Bhojpuri_Junction.png" group-title="Music - PinrangTV",Bhojpuri Junction
+https://extratvteam.site/JIO/autoq.php?c=2229
+#EXTINF:-1 tvg-id="726" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Specials_HD.png" group-title="Music - PinrangTV",Jio Specials HD
+https://extratvteam.site/JIO/autoq.php?c=2230
+#EXTINF:-1 tvg-id="727" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/No1_Yari_Jam.png" group-title="Music - PinrangTV",No 1 Yaari Jam
+https://extratvteam.site/JIO/autoq.php?c=2232
+#EXTINF:-1 tvg-id="728" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News80.png" group-title="News - PinrangTV",News 80
+https://extratvteam.site/JIO/autoq.php?c=2233
+#EXTINF:-1 tvg-id="729" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Desi_Music_Station.png" group-title="Music - PinrangTV",Desi Music Station
+https://extratvteam.site/JIO/autoq.php?c=2252
+#EXTINF:-1 tvg-id="730" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nakshatra_Digital_TV.png" group-title="Entertainment - PinrangTV",Nakshatra Digital TV
+https://extratvteam.site/JIO/autoq.php?c=2253
+#EXTINF:-1 tvg-id="731" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Media9.png" group-title="News - PinrangTV",Media9
+https://extratvteam.site/JIO/autoq.php?c=2254
+#EXTINF:-1 tvg-id="732" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/RRN_News.png" group-title="News - PinrangTV",RRN News
+https://extratvteam.site/JIO/autoq.php?c=2255
+#EXTINF:-1 tvg-id="733" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Thirai.png" group-title="Movies - PinrangTV",Zee Thirai
+https://extratvteam.site/JIO/autoq.php?c=2256
+#EXTINF:-1 tvg-id="734" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/POPxo.png" group-title="Infotainment - PinrangTV",POPxo
+https://extratvteam.site/JIO/autoq.php?c=2257
+#EXTINF:-1 tvg-id="735" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Animax.png" group-title="Entertainment - PinrangTV",Animax
+https://extratvteam.site/JIO/autoq.php?c=2258
+#EXTINF:-1 tvg-id="736" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Divyalok_TV.png" group-title="Devotional - PinrangTV",Divyalok TV
+https://extratvteam.site/JIO/autoq.php?c=2322
+#EXTINF:-1 tvg-id="737" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/TTN24.png" group-title="News - PinrangTV",TTN24
+https://extratvteam.site/JIO/autoq.php?c=2323
+#EXTINF:-1 tvg-id="738" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Scoowhoop.png" group-title="Entertainment - PinrangTV",ScoopWhoop
+https://extratvteam.site/JIO/autoq.php?c=2324
+#EXTINF:-1 tvg-id="739" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Punjabi_Melodies.png" group-title="Music - PinrangTV",Punjabi Melodies
+https://extratvteam.site/JIO/autoq.php?c=2325
+#EXTINF:-1 tvg-id="740" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Firstpost.png" group-title="News - PinrangTV",Firstpost
+https://extratvteam.site/JIO/autoq.php?c=2326
+#EXTINF:-1 tvg-id="741" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CyberPeace_TV.png" group-title="Educational - PinrangTV",CyberPeace TV
+https://extratvteam.site/JIO/autoq.php?c=2328
+#EXTINF:-1 tvg-id="742" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Tom_TV.png" group-title="Infotainment - PinrangTV",Tom TV
+https://extratvteam.site/JIO/autoq.php?c=2349
+#EXTINF:-1 tvg-id="743" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/SRS_Bhakti_TV.png" group-title="Devotional - PinrangTV",SRS Bhakti TV
+https://extratvteam.site/JIO/autoq.php?c=2351
+#EXTINF:-1 tvg-id="744" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Narikaa.png" group-title="Educational - PinrangTV",Narikaa
+https://extratvteam.site/JIO/autoq.php?c=2352
+#EXTINF:-1 tvg-id="745" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Bharat_Express.png" group-title="News - PinrangTV",Bharat Express
+https://extratvteam.site/JIO/autoq.php?c=2353
+#EXTINF:-1 tvg-id="746" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Friends_TV.png" group-title="Entertainment - PinrangTV",Friends TV
+https://extratvteam.site/JIO/autoq.php?c=2354
+#EXTINF:-1 tvg-id="747" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/One_Paschima.png" group-title="News - PinrangTV",One Paschima
+https://extratvteam.site/JIO/autoq.php?c=2355
+#EXTINF:-1 tvg-id="748" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sadhguru_Television_SD.png" group-title="Devotional - PinrangTV",Sadhguru Television SD
+https://extratvteam.site/JIO/autoq.php?c=2388
+#EXTINF:-1 tvg-id="749" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Vande_Bharat.png" group-title="News - PinrangTV",Vande Bharat News
+https://extratvteam.site/JIO/autoq.php?c=2423
+#EXTINF:-1 tvg-id="750" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_Marathi.png" group-title="Entertainment - PinrangTV",Sun Marathi
+https://extratvteam.site/JIO/autoq.php?c=2424
